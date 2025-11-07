@@ -39,3 +39,4 @@ df = Corregir_decimal(df)
 set_data_aviso = actualizar_grup_planif(df)
 # cambios nuevos
 # df.to_csv("Avisos.csv", index=False)
+# ajuste de cambios nuevos
