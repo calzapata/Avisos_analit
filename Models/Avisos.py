@@ -38,5 +38,5 @@ df = actualizar_class_aviso(df)
 df = Corregir_decimal(df)
 set_data_aviso = actualizar_grup_planif(df)
 # print(df)
-
+# Guardar el DataFrame corregido en un nuevo archivo CSV
 # df.to_csv("Avisos.csv", index=False)
