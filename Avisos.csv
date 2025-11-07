@@ -1,0 +1,1118 @@
+Aviso,Fecha de aviso,Descripción,Orden,Grupo planif.,Clase de aviso,Status sistema,Fecha de cierre,Ce.emplazam.,Descripción.1,Duración parada
+100000000,02/04/2025,daño en puerta de malacate,,Electromecanico,Correctivo,MDIF,,C290,Malacate,0.0
+100000001,02/04/2025,Puerta baño Porciparrilla hombres,60000179.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C460,,0.0
+100000002,02/04/2025,Vitrina de refrigeracion esta congelando,,Frigoristas,Correctivo,MECE,23/07/2025,C140,Vitrina refrigeracion N°02,0.0
+100000118,08/04/2025,Espacio entre vidrio y pared parrilla,,Infraestructura,Correctivo,METR,,C340,,0.0
+100000120,01/04/2025,Mejorar la condición del piso sala pro,,Infraestructura,Correctivo,METR,,C260,,0.0
+100000122,01/04/2025,Cambio o reparación marco puerta de cava,,Frigoristas,Correctivo,MDIF,,C250,,0.0
+100000123,01/04/2025,Archivadores oficina jefe contabilidad,60000385.0,Infraestructura,Correctivo,MECE ORAS,16/05/2025,A290,,0.0
+100000124,01/04/2025,Puerta procesos,60000357.0,Infraestructura,Correctivo,MECE ORAS,30/04/2025,C240,,0.0
+100000125,01/04/2025,Instalación de puerta en administración,60000935.0,Infraestructura,Correctivo,MECE ORAS,06/06/2025,C240,,0.0
+100000127,01/04/2025,Tornillos oxidados,60000386.0,Infraestructura,Correctivo,MECE ORAS,30/04/2025,C240,,0.0
+100000128,01/04/2025,Reemplazar vidrio de puesto de pago,,Infraestructura,Correctivo,MECE,05/08/2025,C310,,0.0
+100000130,01/04/2025,Estructura de cortina enrollable,60000332.0,Infraestructura,Correctivo,MECE ORAS,30/04/2025,C240,,0.0
+100000131,01/04/2025,Revisión a cámara externa por fuerte agu,,Electromecanico,Correctivo,MECE,29/07/2025,C400,CAM PV-CALI-Externa2,0.0
+100000134,01/04/2025,Cambio de cortinas cava refrigeración,60000169.0,Frigoristas,Correctivo,MECE ORAS,02/05/2025,C200,,0.0
+100000141,01/04/2025,Palanca puerta desprendida cava,,Frigoristas,Correctivo,MECE,28/07/2025,C260,,0.0
+100000142,01/04/2025,Reparacion de acrilicos,,Infraestructura,Correctivo,MECE,05/05/2025,C120,,0.0
+100000143,01/04/2025,UPS del punto de venta requiere revision,,Electromecanico,Correctivo,MECE,08/09/2025,C320,UPS,0.0
+100000145,01/04/2025,Reparación ventana de PV Cali,60001117.0,Infraestructura,Correctivo,MECE ORAS,29/07/2025,C400,,0.0
+100000147,01/04/2025,Daño en cajonera de los baños,60000938.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C410,,0.0
+100000148,01/04/2025,Solicitud cambio de la plataforma cavas,,Infraestructura,Correctivo,METR,,C190,,0.0
+100000149,01/04/2025,camara parrilla sin visual,60000379.0,Electromecanico,Correctivo,MECE ORAS,21/08/2025,C320,CAM PV-SOLE_Zona Parrilla,0.0
+100000150,01/04/2025,Camara fuera de linea,,Electromecanico,Correctivo,MECE,29/07/2025,A160,CAM PV-MON_Apartamento #1,0.0
+100000151,01/04/2025,Escaleras se encuentran oxidadas,60000672.0,Infraestructura,Correctivo,MECE ORAS,14/08/2025,C120,,0.0
+100000152,01/04/2025,Cambio de rieles de dos cajones,60000499.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,A300,,0.0
+100000154,01/04/2025,Revision de silla de puesto de trabajo,60000457.0,Infraestructura,Correctivo,MECE ORAS,05/05/2025,A290,,0.0
+100000155,01/04/2025,Limpieza de aire acondicionado,60000170.0,Frigoristas,Correctivo,MECE ORAS,21/04/2025,C460,Aire acondicionado msplit - casette N°01,0.0
+100000156,01/04/2025,Daño en mesa,,Infraestructura,Correctivo,METR,,C410,,0.0
+100000158,01/04/2025,Calibración termómetro sala de lactancia,,Metrologia,Correctivo,MECE,12/05/2025,A280,,0.0
+100000159,01/04/2025,Solicitud cambio de gato de vitrina exhi,,Frigoristas,Correctivo,MECE,19/08/2025,C300,Vitrina refrigeracion N°02,0.0
+100000160,01/04/2025,Portacuchillos PV Caldas,,Infraestructura,Correctivo,MECE,07/05/2025,C140,,0.0
+100000166,01/04/2025,Arreglo lampara pasillo,,Electromecanico,Correctivo,MECE,29/07/2025,C180,,0.0
+100000169,01/04/2025,Camara No Funciona,,Electromecanico,Correctivo,MECE,21/08/2025,C400,CAM PV-CALI-Mostrador 1,0.0
+100000171,01/04/2025,Reflectores parte externa,,Electromecanico,Correctivo,MECE,21/07/2025,C260,,0.0
+100000173,01/04/2025,Pisos muy porosos,60000543.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C140,,0.0
+100000174,10/04/2025,Fabricacion carro reparacion Nevera Even,60000200.0,Frigoristas,Correctivo,MECE ORAS,02/05/2025,A400,Nevera vitrina refrigeracion eventos,0.0
+100000175,01/04/2025,corrosión o oxidación de equipos,,Frigoristas,Correctivo,MECE,19/08/2025,C330,Vitrina refrigeracion N°01,0.0
+100000176,01/04/2025,Páneles led de pérgola malos,,Electromecanico,Correctivo,MECE,29/07/2025,C250,,0.0
+100000177,01/04/2025,Arreglo Puerta Principal,,Infraestructura,Correctivo,MECE,21/05/2025,C200,,0.0
+100000178,01/04/2025,Instalacion de camilla,,Infraestructura,Correctivo,MECE,21/05/2025,C210,,0.0
+100000179,01/04/2025,Lámparas de Cruz Técnica,,Electromecanico,Correctivo,MECE,29/07/2025,C250,,0.0
+100000181,01/04/2025,Techo del area de procesos,60000504.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C120,,0.0
+100000183,01/04/2025,Protector para la pared sala de clientes,,Infraestructura,Correctivo,MECE,04/06/2025,C260,,0.0
+100000185,01/04/2025,Reparación cubierta de ventiladores,60000404.0,Frigoristas,Correctivo,MECE ORAS,08/05/2025,C190,Evaporador cava congelacion N°01,0.0
+100000186,01/04/2025,Goteras centro monitoreo,60000501.0,Infraestructura,Correctivo,MECE ORAS,07/05/2025,A290,,0.0
+100000189,10/04/2025,Bomba suministro agua dañada,60000132.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C270,Bomba agua presión hidroflot,131.0
+100000191,01/04/2025,cambio de ojos de buey,,Electromecanico,Correctivo,MECE,29/07/2025,C200,,0.0
+100000193,01/04/2025,Proteccion a bomba de desinfección,60000474.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,A400,Sistema bombeo N°01,0.0
+100000195,01/04/2025,Instalacion de camilla,,Infraestructura,Correctivo,MECE,21/05/2025,C120,,0.0
+100000197,01/04/2025,Cambio mueble de madera lavamanos,60000963.0,Infraestructura,Correctivo,MECE ORAS,01/08/2025,C460,,0.0
+100000198,01/04/2025,Marco dañado cava refrigeracion,,Frigoristas,Correctivo,MECE,05/09/2025,C290,,0.0
+100000199,01/04/2025,Manija baños,60000394.0,Infraestructura,Correctivo,MECE ORAS,30/04/2025,C240,,0.0
+100000200,01/04/2025,cambio de: gatos,,,,,,,,
+100000201,01/04/2025,stiker,,Metrologia,Correctivo,MECE,26/04/2025,C240,Balanza colgante N°01,0.0
+100000202,01/04/2025,Daño iluminacion externa P.v,,Electromecanico,Correctivo,MECE,29/07/2025,C310,,0.0
+100000203,08/04/2025,Cambio lamparas de emergencia,60002280.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C140,,0.0
+100000205,01/04/2025,Instalacion estructura horno,60000381.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C580,,0.0
+100000206,01/04/2025,Camara del mostrador sin visual,,Electromecanico,Correctivo,MECE,21/08/2025,C300,CAM PV-CART-Cajas 2,0.0
+100000207,01/04/2025,Camara Mostrador 1 sin visual,,Electromecanico,Correctivo,MECE,21/08/2025,C370,CAM PV-CTGO-Caja,0.0
+100000208,01/04/2025,instalacion lamparas nuevas P.v,,Electromecanico,Correctivo,MECE,29/07/2025,C170,,0.0
+100000209,01/04/2025,Persianas punto de venta,,Electromecanico,Correctivo,MECE,21/07/2025,C320,Puerta automatica N°05,0.0
+100000210,01/04/2025,Puerta metalica principal,60000376.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C200,,0.0
+100000211,01/04/2025,Se requiere UPS para el punto de venta,,Electromecanico,Correctivo,MECE,08/09/2025,C120,UPS,0.0
+100000212,01/04/2025,Mantenimiento pisos archivo financiero,,Infraestructura,Correctivo,METR,,A280,,0.0
+100000214,05/04/2025,Revisión camaras,,Electromecanico,Correctivo,MECE,29/07/2025,C360,CAM PV-DQU_Cava refrigeracion,0.0
+100000216,01/04/2025,Bisagras puertas cocina GTH,60001114.0,Infraestructura,Correctivo,MECE ORAS,01/08/2025,A300,,0.0
+100000217,01/04/2025,Instalación de pasamanos PV la 33,,Infraestructura,Correctivo,MECE,04/08/2025,C470,,0.0
+100000219,01/04/2025,Bascula de proceso no enciende,60000309.0,Metrologia,Correctivo,MECE ORAS,06/05/2025,C120,Balanza etiquetadora,32.0
+100000220,01/04/2025,Soldar chapa de portacuchillo,,Infraestructura,Correctivo,MECE,21/05/2025,C140,,0.0
+100000223,01/04/2025,Instalacion de camaras tipo domo,,Electromecanico,Correctivo,MECE,29/07/2025,C230,,0.0
+100000227,01/04/2025,Daño en luces parrilla,,Electromecanico,Correctivo,MECE,29/07/2025,C310,,0.0
+100000228,01/04/2025,Reparacion de camaras de parrilla,,Electromecanico,Correctivo,MECE,21/08/2025,C320,CAM PV-SOLE_Zona Parrilla,0.0
+100000231,02/04/2025,Pintura de escalera tipo gato,60000136.0,Infraestructura,Correctivo,MECE MERE ORAS,21/05/2025,C240,,0.0
+100000233,01/04/2025,Reparación santamaría,60000135.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C160,,0.0
+100000234,01/04/2025,bascula de piso,60000109.0,Metrologia,Correctivo,MECE ORAS,11/04/2025,C120,Bascula plataforma,0.0
+100000238,01/04/2025,arreglo vitrinas para Envigado curva 90,60000182.0,Frigoristas,Correctivo,MECE ORAS,16/05/2025,C160,Vitrina refrigeracion Curva,0.0
+100000243,01/04/2025,Freidora no enciende,,Electromecanico,Correctivo,MECE,21/07/2025,C570,Freidora electrica N°01,0.0
+100000244,01/04/2025,daño sierra sin fin,60000107.0,Electromecanico,Correctivo,MECE ORAS,22/05/2025,C160,Sierra sin fin,0.0
+100000246,01/04/2025,Recipientes de freidora en mal estado,,Electromecanico,Correctivo,MECE,29/07/2025,C120,Freidora a gas N°01,0.0
+100000247,04/04/2025,Reparacion cortina,60000105.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C160,,0.0
+100000248,01/04/2025,Sellamiento y reparación,,Infraestructura,Correctivo,MECE,01/08/2025,C470,,0.0
+100000249,10/04/2025,No encienden las luces de la campana.,60000126.0,Electromecanico,Correctivo,MECE ORAS,06/05/2025,C460,Campana extractora,0.0
+100000250,01/04/2025,Deterioro estructura escaleras,60000201.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C310,,0.0
+100000251,10/04/2025,Daño en gatos de Vitrina,,Frigoristas,Correctivo,MECE,28/07/2025,C380,Vitrina refrigeracion N°01,0.0
+100000252,10/04/2025,Reparacion de camaras,,Electromecanico,Correctivo,MECE,29/07/2025,C260,CAM PV-MON_Zona De Carga,0.0
+100000253,01/04/2025,Daño el aire acondicionado instalacio,60001017.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C190,Aire acondicionado msplit - casette N°01,0.0
+100000254,04/04/2025,Sincele_Cava,,Electromecanico,Correctivo,MECE,21/08/2025,C290,CAM PV-SIN_Cava,0.0
+100000283,03/04/2025,Pintura medias cañas,60000134.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C180,,0.0
+100000284,08/04/2025,Mantenimiento general punto de venta,60000141.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C180,,0.0
+100000320,12/04/2025,Cierre Parqueadero,60000164.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C470,,0.0
+100000326,13/04/2025,Cava de congelacion dañada,,Frigoristas,Correctivo,MECE,21/05/2025,C270,Evaporador cava congelacion N°01,22.0
+100000341,14/04/2025,Mantenimiento correctivo iluminacion,60000162.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C330,,0.0
+100000357,14/04/2025,deterioro adaptador camara,,Electromecanico,Correctivo,MECE,21/08/2025,C330,CAM PV-LDOR_Puerta,0.0
+100000360,14/04/2025,Cambio de luces en pergola,60000168.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C350,,0.0
+100000377,14/04/2025,Calibracion alcoholimetro GSPA,60000316.0,Metrologia,Correctivo,MECE ORAS,02/07/2025,A400,Alcoholimetro,0.0
+100000388,15/04/2025,canasta de freidora gancho partido,60000271.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C280,Freidora electrica N°01,216.0
+100000394,15/04/2025,Gotera sala de ventas,60000211.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C120,,0.0
+100000403,01/04/2025,Reparacion de kit de arranque compresor,60000184.0,Frigoristas,Correctivo,MECE ORAS,02/07/2025,C180,Vitrina refrigeracion N°03,0.0
+100000422,15/04/2025,Cava de refrigeracion deficiente,60000209.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C190,Evaporador cava refrigeracion N°01,0.0
+100000426,15/04/2025,arreglo vitrinas para Envigado prest 200,60000202.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina refrigeracion 200,0.0
+100000427,15/04/2025,arreglo vitrinas para Envigado prest 200,60000203.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina refrigeracion 200,0.0
+100000428,15/04/2025,arreglo vitrinas para Envigado prest 250,60000204.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina refrigeracion 200,0.0
+100000429,15/04/2025,arreglo vitrinas para Envigado cong 105,60000205.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C160,Vitrina congelacion 105,0.0
+100000481,16/04/2025,Pintura cortinas enrrollables,60000217.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C240,,0.0
+100000482,16/04/2025,Campana de parrilla,60000235.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C200,Campana extractora,0.0
+100000508,17/04/2025,Temperatura alta en vitrinas,60000246.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C200,Vitrina refrigeracion N°02,7.0
+100000517,19/04/2025,Vitrina hechando humo,60000247.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C170,Vitrina congelacion N°01,2.0
+100000518,19/04/2025,Vitrina refrigeracion con fallas,4000000.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C220,Vitrina refrigeracion N°01,0.0
+100000523,20/04/2025,Vitrina dañada,60000237.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C150,Vitrina congelacion N°03,2.0
+100000529,20/04/2025,arreglo lampara pasillo cavas,60000864.0,Electromecanico,Correctivo,MECE ORAS,02/07/2025,C210,,0.0
+100000530,20/04/2025,Daño en cava de congelacion,60000236.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C210,Evaporador cava congelacion N°01,0.0
+100000531,21/04/2025,sierra dañada,60000325.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C290,Sierra sin fin,65.0
+100000536,21/04/2025,sierra,,Electromecanico,Correctivo,MECE,21/04/2025,C100,Sierra sin fin,0.0
+100000538,21/04/2025,Requqerimiento calidad,,Infraestructura,Correctivo,MECE,04/06/2025,C220,,0.0
+100000539,21/04/2025,sierra sin fin,60000340.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C100,Sierra sin fin,13.0
+100000540,21/04/2025,etiquetadora,60000459.0,Metrologia,Correctivo,MECE ORAS,05/05/2025,C100,Balanza etiquetadora,0.0
+100000544,21/04/2025,arreglo granito fachada Pv y tableta,,Infraestructura,Correctivo,MECE,01/08/2025,C210,,0.0
+100000545,21/04/2025,balanza colgante,60000330.0,Metrologia,Correctivo,MECE ORAS,26/04/2025,C100,Balanza colgante N°04,0.0
+100000546,21/04/2025,iluminación vitrina 2,,Frigoristas,Correctivo,MECE,28/07/2025,C120,Vitrina refrigeracion N°02,0.0
+100000547,21/04/2025,Pintura negra jardineras,60000693.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C120,,0.0
+100000548,21/04/2025,Desprendimiento de pintura,60000671.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C200,,0.0
+100000550,21/04/2025,freidora no enciende,60000289.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C410,Freidora a gas N°02,10.0
+100000558,21/04/2025,Mantenimiento PV Sabaneta locativo,60000239.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C120,,0.0
+100000565,21/04/2025,Mantenimiento y lavado de vitrinas PV 33,60000241.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C470,Vitrina refrigeracion N°01,0.0
+100000568,22/04/2025,Fabricacion de piezas para vitrinas,60000242.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C160,Vitrina refrigeracion N°03,0.0
+100000572,22/04/2025,Persiana,4000021.0,Infraestructura,Correctivo,MECE ORAS,04/06/2025,C100,,0.0
+100000577,22/04/2025,SOLICITUD INTERVENCIÓN ESTANTERIA,60001044.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C120,,0.0
+100000578,22/04/2025,Sierra desgaste motor,60000251.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C300,Sierra sin fin,134.0
+100000579,22/04/2025,ARREGLO PUERTA DE ACCESO CLIENTES,60000252.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C320,,0.0
+100000588,22/04/2025,Tomas electrico en mal estado,,Electromecanico,Correctivo,MECE,21/07/2025,C100,,0.0
+100000590,22/04/2025,Latas vitrinas caidas,60000406.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C100,Vitrina refrigeracion N°02,0.0
+100000593,22/04/2025,Molino con fuga de aceite,60000339.0,Electromecanico,Correctivo,MECE ORAS,02/07/2025,C300,Molino,129.0
+100000594,22/04/2025,SOLICITUD REMACHES BRAZO BASCULA,60000460.0,Metrologia,Correctivo,MECE ORAS,05/05/2025,C120,Balanza colgante N°05,0.0
+100000601,23/04/2025,Daño conector internet,60000477.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C140,,0.0
+100000602,23/04/2025,Cava de refrigeracion,60000304.0,Frigoristas,Correctivo,MECE ORAS,06/05/2025,C100,Controlador cava refrigeracion N°01,0.0
+100000613,23/04/2025,Mantenimiento p.v. tulua locativo,60000278.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C380,,0.0
+100000620,01/04/2025,suministro de cargador bateria,60000274.0,Electromecanico,Correctivo,MECE ORAS,30/05/2025,C260,Planta electrica,0.0
+100000624,23/04/2025,Fabricacion y maquinado plea sierra,60000279.0,Electromecanico,Correctivo,MECE ORAS,01/08/2025,C140,Sierra sin fin,0.0
+100000627,01/04/2025,maquinado Ejes y bujes sierra,60000281.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C160,Sierra sin fin,0.0
+100000633,23/04/2025,Cambio de luces pergola,60000285.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000640,23/04/2025,Accesorios para instalacion de Bomba,,Electromecanico,Correctivo,MECE,21/05/2025,C270,,0.0
+100000641,23/04/2025,mantenimeinto freidoras,60000343.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C330,Freidora electrica N°01,402.0
+100000647,01/04/2025,Reparacion balanza etiquetadora,60000297.0,Metrologia,Correctivo,MECE ORAS,05/05/2025,C100,Balanza etiquetadora,0.0
+100000648,07/04/2025,Reparacion teclado de balanza,60000582.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C140,Balanza colgante N°02,0.0
+100000649,07/04/2025,Daño marco de botonera,60000583.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C140,Balanza colgante N°03,0.0
+100000650,24/04/2025,Daño cierra cable,60000308.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C350,Sierra sin fin,1.0
+100000652,07/04/2025,Marco de botonera reventado,60000584.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C140,Balanza colgante N°04,0.0
+100000653,24/04/2025,Cambio de baterias ups,60000303.0,Electromecanico,Correctivo,MECE ORAS,22/05/2025,A290,UPS,0.0
+100000654,07/04/2025,Marco de botonera roto,60000588.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C160,Balanza colgante N°02,0.0
+100000655,07/04/2025,Marco de botonera roto,60000589.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C160,Balanza colgante N°05,0.0
+100000657,07/04/2025,Marco de botonera roto,60000590.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C160,Balanza colgante N°07,0.0
+100000658,07/04/2025,Marco de botonera roto,60000591.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C120,Balanza colgante N°04,0.0
+100000660,07/04/2025,Marco de botonera roto,60000592.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C120,Balanza colgante N°05,0.0
+100000661,07/04/2025,Marco de botonera roto,60000593.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C110,Balanza colgante N°01,0.0
+100000662,07/04/2025,Marco de botonera roto,60000594.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C200,Balanza colgante N°03,0.0
+100000663,01/04/2025,Bisagra y tapa de impresora malos,60000299.0,Metrologia,Correctivo,MECE ORAS,22/05/2025,C140,Balanza colgante N°01,0.0
+100000667,01/04/2025,Tapa de impresora rota,60000595.0,Metrologia,Correctivo,MECE ORAS,29/05/2025,C170,Balanza colgante N°01,0.0
+100000669,24/04/2025,Reparacion llave sala de procesos,60000378.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000670,01/04/2025,Bisagra de impresora fracturada,60000597.0,Metrologia,Correctivo,MECE ORAS,29/05/2025,C170,Balanza colgante N°02,0.0
+100000671,01/04/2025,Bisagra de impresora fracturada,60000599.0,Metrologia,Correctivo,MECE ORAS,29/05/2025,C170,Balanza colgante N°03,0.0
+100000673,24/04/2025,novedad con gato puerta p.v.,60000302.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C310,,0.0
+100000674,24/04/2025,Revisar bomba de agua poso URGENTE,60000317.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,A400,Bomba lapicero N°01,0.0
+100000675,24/04/2025,Empaque de ventanas para transport,60000301.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000676,01/04/2025,Bisagra de impresora fracturada,60000600.0,Metrologia,Correctivo,MECE ORAS,29/05/2025,C170,Balanza colgante N°04,0.0
+100000677,01/04/2025,Bascula de piso con diferencia de peso.,60000312.0,Metrologia,Correctivo,MECE ORAS,06/05/2025,C400,Bascula plataforma,0.0
+100000678,24/04/2025,Restauracion de vitrinas Arneg 01,60000305.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina refrigeracion N°01,0.0
+100000679,24/04/2025,Restauracion de vitrinas Arneg 02,60000306.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina refrigeracion N°02,0.0
+100000681,24/04/2025,Restauracion de vitrinas Arneg 03,60000307.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina refrigeracion N°03,0.0
+100000688,24/04/2025,Muros p.v. copacabana,60000310.0,Infraestructura,Correctivo,MECE ORAS,22/05/2025,C200,,0.0
+100000697,24/04/2025,Temperatura Vitrina principal,,Frigoristas,Correctivo,MECE,21/07/2025,C240,Vitrina refrigeracion N°02,0.0
+100000707,25/04/2025,Reparacion de cortinas enrrollable,60000315.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C270,Puerta automatica N°01,16.0
+100000709,25/04/2025,URGENTE CAFETERA FALLANDO,60000775.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C120,Electrodomesticos menores,0.0
+100000711,25/04/2025,Nevera parrilla no enfria,60000541.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C220,Nevera vertical mixta,781.0
+100000722,25/04/2025,Cambio de luces pasillo interno,60000323.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000723,25/04/2025,Revicion b. etiquetadora,60000571.0,Metrologia,Correctivo,MECE ORAS,12/05/2025,C100,Balanza etiquetadora,0.0
+100000724,25/04/2025,Cambio de luces salon general pv,60000324.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000726,25/04/2025,cambio de luces apartamento Edf Cali,60000326.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,A260,,0.0
+100000727,25/04/2025,Cambio de lamparas y limpieza curz tecni,60000327.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000730,25/04/2025,Cambio de luces salon empleados,60000329.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C400,,0.0
+100000731,25/04/2025,pozuelo del area de aseo con fuga de agu,60000333.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C110,,0.0
+100000741,26/04/2025,REPARACION REJA PARRILLA,60000355.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C310,,0.0
+100000744,26/04/2025,canasta de la freidora mala,,Electromecanico,Correctivo,MECE,21/07/2025,C570,Freidora a gas N°01,0.0
+100000747,28/04/2025,la  sierra no arranca,60000365.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C290,Sierra sin fin,0.0
+100000752,28/04/2025,Lamparas colgantes Procesos & Pasillo,,Electromecanico,Correctivo,MECE,29/07/2025,C240,,0.0
+100000758,28/04/2025,BOMBA CON FUGA,60000784.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C280,Bomba agua presion N°01,0.0
+100000765,28/04/2025,PUERTA DESCARRILADA,60001046.0,Infraestructura,Correctivo,MECE ORAS,04/06/2025,A400,,0.0
+100000767,28/04/2025,Gotera techo oficina dirección porcicult,60000596.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,A280,,0.0
+100000768,28/04/2025,Compra de cuchilla y disco del molino,60000375.0,Electromecanico,Correctivo,MECE ORAS,27/06/2025,C260,Molino,0.0
+100000770,28/04/2025,Vitrina Congelacion no funciona,60000374.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina congelacion 105,2.0
+100000772,28/04/2025,Cava Refrigeracion no funciona,60000373.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C220,Controlador cava refrigeracion N°01,2.0
+100000775,28/04/2025,CAMBIO DE SWITCH EN LA PARRILLA,60000369.0,Electromecanico,Correctivo,MECE ORAS,27/06/2025,C310,,0.0
+100000776,28/04/2025,cruz tecnica mtto,60000683.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C370,,0.0
+100000777,28/04/2025,Luces quemadas de la Cruz,,Electromecanico,Correctivo,MECE,29/07/2025,C230,,0.0
+100000778,28/04/2025,Cambio aspa de ventilador cava cong,60000490.0,Frigoristas,Correctivo,MECE ORAS,28/07/2025,C370,Evaporador cava congelacion N°01,0.0
+100000779,28/04/2025,Rejas punto de venta,,Infraestructura,Correctivo,MECE,07/05/2025,C230,,0.0
+100000782,29/04/2025,Arrreglo puerta de parrilla vidrio,60000422.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C250,,0.0
+100000783,29/04/2025,Arreglo puerta de vidrio PDV,60000421.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C250,,0.0
+100000784,29/04/2025,Luces de pérgola en mal estato,,Electromecanico,Correctivo,MECE,29/07/2025,C250,,0.0
+100000785,29/04/2025,Luces de cruz técnica malas,,Electromecanico,Correctivo,MECE,29/07/2025,C250,,0.0
+100000786,29/04/2025,Luces del salon parrilla sin funcionamie,,Electromecanico,Correctivo,MECE,29/07/2025,C250,,0.0
+100000798,29/04/2025,mantenimiento techo de parrillla(gotera),60000710.0,Infraestructura,Correctivo,MECE ORAS,04/06/2025,C260,,0.0
+100000804,29/04/2025,Arreglo de fachada superior,60000418.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C250,,0.0
+100000809,30/04/2025,Reparacion bascula colgante,60000577.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C340,Balanza colgante N°01,0.0
+100000811,30/04/2025,Vitrina refrigeracion sin frio,60000391.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C190,Vitrina refrigeracion N°04,3.0
+100000822,30/04/2025,Techo Con gotera,60000387.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C240,,0.0
+100000824,30/04/2025,etiquetadora no pesa,60000573.0,Metrologia,Correctivo,MECE ORAS,15/05/2025,C120,Balanza etiquetadora,358.0
+100000825,30/04/2025,reparacion de moto ose69d,,Infraestructura,Correctivo,MECE,02/05/2025,C370,,0.0
+100000828,30/04/2025,Solicitud mtto correctivo of calidad PV,60000689.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,A280,,0.0
+100000829,30/04/2025,Daño aire acondicionado monitoreo,60000392.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,A290,Aire acondicionado msplit - casette N°01,0.0
+100000830,30/04/2025,Revision AA PV Barranquilla,60000393.0,Frigoristas,Correctivo,MECE ORAS,24/07/2025,C310,Aire acondicionado central,0.0
+100000832,30/04/2025,Compra de ACPM,,Electromecanico,Correctivo,MECE,30/04/2025,C320,Planta electrica,0.0
+100000833,15/04/2025,Cava de refrigeracion deficiente,,Frigoristas,Correctivo,MECE,21/05/2025,C190,Evaporador cava refrigeracion N°01,0.0
+100000849,01/05/2025,daño en manguera del desague lavaplatos,60000468.0,Infraestructura,Correctivo,MECE ORAS,29/05/2025,C460,,0.0
+100000854,02/05/2025,Puerta de la cava esta caida,60000405.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C170,,0.0
+100000860,02/05/2025,Molino botó una pieza,60000420.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C160,Molino,63.0
+100000865,02/05/2025,daño de extractor  parrilla,60000409.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C390,Campana extractora,83.0
+100000866,02/05/2025,reparacion cruz tecnica,60000413.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C390,,0.0
+100000867,02/05/2025,cambio luz salon empleados,60000415.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C390,,0.0
+100000868,02/05/2025,Daño vitrina,60000416.0,Frigoristas,Correctivo,MECE ORAS,02/07/2025,C390,Vitrina refrigeracion N°02,0.0
+100000872,02/05/2025,Equipos de frio,60000542.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C240,Vitrina refrigeracion N°03,0.0
+100000873,02/05/2025,Nevera no enfria,60000455.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C300,Vitrina refrigeracion N°03,0.0
+100000874,02/05/2025,Mantenimiento preventivo Molino,60000500.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C230,Molino,5.0
+100000877,02/05/2025,Ventilador condensandora,60000481.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C240,Condensador cava congelacion N°01,0.0
+100000878,02/05/2025,Vitrina congelación,60000482.0,Frigoristas,Correctivo,MECE ORAS,13/05/2025,C240,Vitrina congelacion N°02,0.0
+100000880,02/05/2025,Cerramiento externo,60001091.0,Infraestructura,Correctivo,MECE ORAS,13/06/2025,C400,,0.0
+100000882,03/05/2025,Verificacion de temperaturas metrologia,60000503.0,Metrologia,Correctivo,MECE ORAS,21/05/2025,C230,Vitrina refrigeracion N°01,0.0
+100000883,03/05/2025,Arreglo de cava refrigeracion,60000456.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C370,Controlador cava refrigeracion N°01,4.0
+100000884,03/05/2025,Reparacion de vitrina 3,60000927.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C370,Vitrina refrigeracion N°03,0.0
+100000885,03/05/2025,reparacion de techo salon punto de venta,60000726.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C370,,0.0
+100000892,03/05/2025,Luces vitrina dañada,60000426.0,Frigoristas,Correctivo,MECE ORAS,05/05/2025,C100,Vitrina congelacion N°01,0.0
+100000905,03/05/2025,Lampara de la cava de congelacion mala,60000448.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C170,,0.0
+100000907,03/05/2025,Daño en cava de congelacion,60000447.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C210,Evaporador cava congelacion N°01,0.0
+100000909,04/05/2025,breaker Iluminacion malo,60000487.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C390,,0.0
+100000919,05/05/2025,ARREGLO DE MOLINO,60000462.0,Electromecanico,Correctivo,MECE ORAS,02/07/2025,C400,Molino,2.0
+100000922,05/05/2025,daño en lavado de sala de procesos,60000469.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C210,,0.0
+100000931,05/05/2025,reparacion luces de oficina,60000465.0,Electromecanico,Correctivo,MECE ORAS,30/05/2025,C110,,3.0
+100000935,05/05/2025,Desarme de vitrinas,60000461.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C200,Vitrina refrigeracion N°01,0.0
+100000939,05/05/2025,Mantenimiento preventivo Freidora,60000467.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C240,Freidora electrica N°01,0.0
+100000944,05/05/2025,tomas de luz,,Electromecanico,Correctivo,MECE,21/07/2025,C100,,0.0
+100000947,06/05/2025,Vitrina congelación charcuteria,60000479.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C100,Vitrina congelacion N°02,0.0
+100000953,06/05/2025,tubo de agua partido,60000559.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C290,,0.0
+100000956,06/05/2025,Arreglo vitrina eventos,60000485.0,Frigoristas,Correctivo,MECE ORAS,11/07/2025,A400,Nevera vitrina refrigeracion eventos,0.0
+100000971,06/05/2025,Pintar parqueadero GSPA,60000492.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,A400,,0.0
+100000972,06/05/2025,Novedad iluminacion,60001515.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C320,,0.0
+100000973,06/05/2025,mantenimiento para la  cruz tecnica,,Electromecanico,Correctivo,MECE,29/07/2025,C320,,0.0
+100000974,07/05/2025,Mantenimiento preventivo refrigeracion,60000498.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C230,Vitrina refrigeracion N°01,0.0
+100000975,07/05/2025,Cambio de iluminacion mala,60000519.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C140,,0.0
+100000978,07/05/2025,NOVEDAD EN TEMPERATURA VITRINA 3,60002206.0,Frigoristas,Correctivo,MECE ORAS,24/07/2025,C310,Vitrina refrigeracion N°03,0.0
+100000979,07/05/2025,AVERIA EN LUCES DE LA CRUZ TECNICA,,Electromecanico,Correctivo,MECE,29/07/2025,C310,,0.0
+100000980,07/05/2025,Iluminación cuarto de maquinas,60000523.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C310,,0.0
+100000981,07/05/2025,DAÑO EN LLAVE DE AGUA DE CUARTO ASEO,60000525.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C310,,0.0
+100000982,07/05/2025,Mantenimiento Cortinas enrollables,60000678.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C230,,0.0
+100000984,07/05/2025,Daño controlador,60000926.0,Frigoristas,Correctivo,MECE ORAS,02/07/2025,C390,Condensadora Lineal Vitrinas N°01,2.0
+100000990,07/05/2025,mantenimiento cruz tecnica,60000508.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C380,,0.0
+100000991,07/05/2025,Fuga Agua sala procesos,60001103.0,Infraestructura,Correctivo,MECE ORAS,06/06/2025,C380,,0.0
+100001001,07/05/2025,cava refiegeracion no enfria,60000520.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C380,Controlador cava refrigeracion N°01,8.0
+100001004,07/05/2025,posuelo de Sala procesos,60000532.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C180,,0.0
+100001005,07/05/2025,Rampla sin cinta antideslizante,,Infraestructura,Correctivo,MECE,06/06/2025,C270,,0.0
+100001006,07/05/2025,Posuelo comedor empleados,60000533.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C180,,0.0
+100001007,07/05/2025,APARTAMENTOS SIN LUZ,,Electromecanico,Correctivo,MECE,21/07/2025,A170,,0.0
+100001008,07/05/2025,Mantenimiento Monteria general PV locati,,Infraestructura,Correctivo,MECE,03/06/2025,C260,,0.0
+100001015,07/05/2025,Arreglo puerta principal,60000657.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C200,,0.0
+100001017,07/05/2025,luces pasillo punto de venta,60000873.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C210,,0.0
+100001018,07/05/2025,Cambio de baterias UPS,60000522.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,A290,UPS,0.0
+100001019,07/05/2025,Pin Neveras para sostener bandeja metal,60000991.0,Frigoristas,Correctivo,MECE ORAS,04/06/2025,C230,Vitrina refrigeracion N°01,0.0
+100001020,08/05/2025,se  daño el  gato  de la  puerta de vidr,60000554.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C290,,1.0
+100001021,08/05/2025,Reparación vitrina refrigeracion,60000575.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C380,Vitrina refrigeracion N°03,0.0
+100001025,08/05/2025,cambio iluminacion apartamento,60000529.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C380,,0.0
+100001027,08/05/2025,cambio chapas puertas,60000530.0,Infraestructura,Correctivo,MECE ORAS,02/09/2025,A190,,0.0
+100001028,08/05/2025,MOLINO CON SENSOR MALO,60000528.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C470,Molino,6.0
+100001029,08/05/2025,PINTURA PAREDES,,Infraestructura,Correctivo,MECE,01/08/2025,C470,,0.0
+100001030,08/05/2025,BAÑO MUJERES EMPELADOS,,Infraestructura,Correctivo,MECE,01/08/2025,C470,,0.0
+100001031,08/05/2025,CHAPA PUERTA ACCESO PRINCIPAL PARRILLA,,Infraestructura,Correctivo,MECE,01/08/2025,C470,,0.0
+100001034,07/05/2025,Mantenimiento general PV locativo,60000668.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C260,,0.0
+100001037,08/05/2025,CIELO RASO PV,,Infraestructura,Correctivo,MECE,01/08/2025,C470,,0.0
+100001040,08/05/2025,LAMPARAS CUARTO CANASTAS,,Electromecanico,Correctivo,MECE,29/07/2025,C470,,0.0
+100001045,08/05/2025,Mantenimiento general de las vitrinas,60000531.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C190,Vitrina refrigeracion N°02,0.0
+100001047,08/05/2025,Caja de electricidad quebrada,,Frigoristas,Correctivo,MECE,29/05/2025,C140,Vitrina refrigeracion N°03,0.0
+100001052,08/05/2025,lamparas led de techo malas,,Electromecanico,Correctivo,MECE,29/07/2025,C170,,0.0
+100001053,08/05/2025,tapa mala sanitario hombres parrilla,60000642.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C170,,0.0
+100001056,09/05/2025,Solicitud Porta Cuchillos,60002610.0,Infraestructura,Correctivo,METR ORAS,,C230,,0.0
+100001057,09/05/2025,plancha parrilla,60000663.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C120,Plancha N°01,1.0
+100001058,09/05/2025,Bascula mala impresion,60000644.0,Metrologia,Correctivo,MECE ORAS,03/06/2025,C120,Balanza colgante N°03,0.0
+100001063,09/05/2025,Terminacion de escalas,,Infraestructura,Correctivo,MECE,10/06/2025,C120,,0.0
+100001066,09/05/2025,Cambio cauchos puertas cavas,,Frigoristas,Correctivo,MECE,07/07/2025,C230,,0.0
+100001067,09/05/2025,Retiro de material en punto de venta,60000652.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C230,,0.0
+100001070,09/05/2025,Daño cava congelación,60000557.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C340,Controlador cava congelacion N°01,2.0
+100001075,09/05/2025,limpieza tuberia pv,60000551.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C320,,0.0
+100001076,09/05/2025,bascula local,60000643.0,Metrologia,Correctivo,MECE ORAS,15/05/2025,C200,Balanza colgante N°05,6.0
+100001078,09/05/2025,Desprendimiento de pintura en cavas,,Frigoristas,Correctivo,METR,,C200,,0.0
+100001086,09/05/2025,TOPES DE PUERTAS DE ACCCESO A PV Y PARRI,60000549.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C310,,0.0
+100001092,09/05/2025,arreglo de luces del punto de venta,60001131.0,Electromecanico,Correctivo,MECE ORAS,01/08/2025,C110,,0.0
+100001093,09/05/2025,puerta de nevera de congelacion de parri,60000785.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C110,Nevera vertical congelacion N°01,0.0
+100001094,09/05/2025,fuga de agua,60000698.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C110,,0.0
+100001095,09/05/2025,fuga de agua en el pozuelo de lavatraper,60000697.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C110,,0.0
+100001096,09/05/2025,colocar anclaje para sostener la manguer,,Infraestructura,Correctivo,MECE,01/08/2025,C110,,0.0
+100001097,09/05/2025,instalar regilla en posuelo de pasillo,60000633.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C110,,0.0
+100001101,10/05/2025,arraglo tanque Freidora,60002893.0,Electromecanico,Correctivo,METR ORAS,,C260,Freidora a gas N°01,0.0
+100001124,10/05/2025,Vitrina refriegracion sin iluminacion,60000598.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C220,Vitrina refrigeracion N°02,0.0
+100001125,10/05/2025,Daño en rack de refrigeracion,60000572.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C310,Rack de refrigeracion,0.0
+100001128,11/05/2025,Nevera de refrigeracion con problemas,60000929.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C110,Vitrina refrigeracion N°02,0.0
+100001130,11/05/2025,Cava cong ventiladores congelados,60000615.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C230,Evaporador cava congelacion N°01,0.0
+100001135,12/05/2025,Iluminacion vitrina,,Frigoristas,Correctivo,MECE,21/05/2025,C380,Vitrina refrigeracion N°03,0.0
+100001138,12/05/2025,Plancha parrilla no enciende,,Electromecanico,Correctivo,MECE,13/05/2025,C240,Plancha N°01,0.0
+100001139,12/05/2025,pasamanos desajustado,60000705.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C170,,0.0
+100001140,12/05/2025,Adecuación escritorio,60000606.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,A290,,0.0
+100001147,12/05/2025,balanza en mal estado,60000640.0,Metrologia,Correctivo,MECE ORAS,15/05/2025,C110,Balanza colgante N°07,24.0
+100001162,13/05/2025,Marco dañado cava refrigeracion,,Frigoristas,Correctivo,METR,,C290,,0.0
+100001166,13/05/2025,tubo externo red internet,60000620.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C380,,0.0
+100001168,13/05/2025,SUSPENSION DE ENERGIA APARTADO,60000616.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C250,,0.0
+100001170,13/05/2025,Vitrina de congelacion 1,60000665.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C320,Vitrina congelacion N°01,0.0
+100001182,13/05/2025,Camara PV Rionegro,,Electromecanico,Correctivo,MECE,21/08/2025,C230,CAM PV-RIO_Entrada,0.0
+100001183,13/05/2025,LIMPIAR DISPOSITIVOS,,Electromecanico,Correctivo,MECE,21/08/2025,C100,CAM PV-PRA_Bascula,0.0
+100001184,13/05/2025,mantenimiento plancha,60000628.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C570,Plancha N°01,0.0
+100001190,13/05/2025,Camara Externa 2 sin visual PV-Dosquebra,,Electromecanico,Correctivo,MECE,21/08/2025,C360,CAM PV-DQU_Externa 2,0.0
+100001196,13/05/2025,limpieza de alcantarillado,60000634.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C330,,0.0
+100001199,14/05/2025,Daño de cava de congelacion,60000647.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C220,Condensador cava congelacion N°01,5.0
+100001205,14/05/2025,arreglo de freidora electrica,60000651.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C570,Freidora electrica N°01,0.0
+100001207,14/05/2025,Lubricación carros canasteros,60000653.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C310,,0.0
+100001209,14/05/2025,DAÑO DE FREIDORA,60000895.0,Electromecanico,Correctivo,MECE ORAS,09/06/2025,C310,Freidora electrica N°01,503.0
+100001211,14/05/2025,DAÑO MAQUINA ETIQUETADORA,,Metrologia,Correctivo,MECE,15/05/2025,C310,Balanza etiquetadora,0.0
+100001220,14/05/2025,sierra fuerte ruido,60001030.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C290,Sierra sin fin,0.0
+100001221,14/05/2025,Daño Vitrina Refrigeracion,,Infraestructura,Correctivo,MECE,17/07/2025,A400,,0.0
+100001225,14/05/2025,2 piso sin luz,,Electromecanico,Correctivo,MECE,29/07/2025,A140,,0.0
+100001228,14/05/2025,Puerta gabinete almacen se cayo,,Infraestructura,Correctivo,MECE,10/07/2025,C160,,0.0
+100001239,15/05/2025,Nevera punto de vta no prende,,Frigoristas,Correctivo,MECE,29/05/2025,C230,Vitrina refrigeracion N°01,0.0
+100001242,15/05/2025,CAM PV-LDOR_Mostrador 2,,Electromecanico,Correctivo,MECE,29/07/2025,C330,CAM PV-LDOR_Mostrador 2,0.0
+100001251,15/05/2025,CAM PAR-PARA Dotación_Almacen #2,,Electromecanico,Correctivo,MECE,21/08/2025,A330,CAM PAR-PARA Dotación_Almacen #2,0.0
+100001264,15/05/2025,CAM PV-SIN_Cava,,Electromecanico,Correctivo,MECE,21/08/2025,C290,CAM PV-SIN_Cava,0.0
+100001266,15/05/2025,CAM OFI Adm_Contabilidad 2,,Electromecanico,Correctivo,MECE,21/08/2025,A290,CAM OFI Adm_Contabilidad 2,0.0
+100001267,15/05/2025,CAM PV-LORIC_Perimetro 4,,Electromecanico,Correctivo,MEAB,,C270,CAM PV-LORIC_Perimetro 4,0.0
+100001268,15/05/2025,CAM PV-SAHA_Externa 3,,Electromecanico,Correctivo,MEAB,,C280,CAM PV-SAHA_Externa 3,0.0
+100001269,15/05/2025,CAM OFI Adm_Sistemas 1,,Electromecanico,Correctivo,MEAB,,A290,CAM OFI Adm_Sistemas 1,0.0
+100001270,15/05/2025,Camara Pv Cartago,,Electromecanico,Correctivo,MEAB,,C370,CAM PV-CTGO-Mostrador 1,0.0
+100001271,15/05/2025,reparacion llave pasillo y chapa baño cl,60000738.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C370,,0.0
+100001278,15/05/2025,LAVADO DE TRAMPA GRASA,,Infraestructura,Correctivo,MECE,10/07/2025,C470,,0.0
+100001279,15/05/2025,Vitrina de congelado mala,60000725.0,Frigoristas,Correctivo,MECE ORAS,27/05/2025,C190,Vitrina refrigeracion N°02,18.0
+100001280,15/05/2025,Vitrinas sabaneta,60000679.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C120,Vitrina refrigeracion N°02,0.0
+100001287,15/05/2025,Puerta Enrrollable,60000841.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C300,,0.0
+100001288,15/05/2025,Ventilador vitrina parado,60000792.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C140,Vitrina refrigeracion N°01,0.0
+100001289,15/05/2025,Puerta entrada principal,60001314.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C300,,0.0
+100001290,15/05/2025,INSTALACION DE PUERTAS,60002434.0,Infraestructura,Correctivo,METR ORAS,,C470,,0.0
+100001293,15/05/2025,Reparacio carro canastero pv,60000863.0,Infraestructura,Correctivo,MECE ORAS,02/07/2025,C300,,0.0
+100001298,16/05/2025,picaporte de puerta dañado,60000699.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C140,,0.0
+100001300,16/05/2025,cambio de bomba de tanque de agua,60000690.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C160,,37.0
+100001306,16/05/2025,Cambio de Llanta Carrito Transportador,,Infraestructura,Correctivo,MECE,01/08/2025,C220,,0.0
+100001307,16/05/2025,puerta metalica no sube,60000787.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C280,,0.0
+100001311,16/05/2025,Verificacion de metrologia bascula plata,60000714.0,Metrologia,Correctivo,MECE ORAS,20/05/2025,C220,Bascula plataforma,0.0
+100001322,16/05/2025,poceta lavamanos botando agua,60001170.0,Infraestructura,Correctivo,MECE ORAS,21/08/2025,C170,,0.0
+100001323,16/05/2025,Vitrina de refrigeracion congelando,60000789.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C180,Vitrina refrigeracion N°03,0.0
+100001325,16/05/2025,Llave de procesos reventada,60000783.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C180,,0.0
+100001327,16/05/2025,Mantenimiento red electrico Cartago,60000729.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C370,,0.0
+100001328,16/05/2025,punto de red caja,60000700.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C370,,0.0
+100001331,16/05/2025,bascula 7 no imprime bien tiquetes,,Metrologia,Correctivo,MECE,22/05/2025,C170,Balanza colgante N°07,0.0
+100001332,16/05/2025,micoondas no funciona,,Electromecanico,Correctivo,MECE,29/07/2025,C170,Electrodomesticos menores,0.0
+100001398,17/05/2025,bolla del tanque elevadizo en mal estado,,Infraestructura,Correctivo,MECE,20/05/2025,C110,,0.0
+100001400,18/05/2025,sierra con cable roto,60000757.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C170,Sierra sin fin,2.0
+100001401,19/05/2025,Vitrina no congela,60000786.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C160,Vitrina congelacion N°01,0.0
+100001402,19/05/2025,Vitrina de congelacion no enciende,60000728.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C150,Vitrina congelacion N°03,27.0
+100001403,19/05/2025,Solicitud acrilicos vitrinas,60000885.0,Frigoristas,Correctivo,MECE ORAS,27/05/2025,C160,Vitrina congelacion N°01,0.0
+100001406,19/05/2025,revision sierra,60000755.0,Electromecanico,Correctivo,MECE ORAS,21/05/2025,C160,Sierra sin fin,5.0
+100001408,21/05/2025,Molino,60000800.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C240,Molino,0.0
+100001409,19/05/2025,tanque de agua,60000748.0,Infraestructura,Correctivo,MECE ORAS,21/05/2025,C110,,0.0
+100001412,19/05/2025,Daño swiches vitrinas,60000730.0,Frigoristas,Correctivo,MECE ORAS,21/05/2025,C110,Vitrina refrigeracion N°01,0.0
+100001426,19/05/2025,valvulas freidora malas,60000756.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C120,Plancha N°01,0.0
+100001432,19/05/2025,Cambio de poleas sierra sin fin,60000761.0,Electromecanico,Correctivo,MECE ORAS,14/07/2025,C250,Sierra sin fin,0.0
+100001441,19/05/2025,Cavas PV Cali,,Frigoristas,Correctivo,MECE,21/05/2025,C400,Evaporador cava congelacion N°01,0.0
+100001449,20/05/2025,Molino no enciende,60000799.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C230,Molino,3.0
+100001465,20/05/2025,CAM SERV_Perimetro 1,,Electromecanico,Correctivo,MEAB,,A400,CAM SERV_Perimetro 1,0.0
+100001474,20/05/2025,Control de vitrina dañado,60000912.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C270,Vitrina congelacion N°01,152.0
+100001487,20/05/2025,Daño microondas sistemas,,Electromecanico,Correctivo,MECE,21/07/2025,A290,Electrodomesticos menores,0.0
+100001489,21/05/2025,MALACATE TIENE UN RUIDO RARO,,Electromecanico,Correctivo,MECE,21/07/2025,C190,Malacate,0.0
+100001492,21/05/2025,Carro para transportas canastas malo,,Infraestructura,Correctivo,MECE,10/07/2025,C190,,0.0
+100001495,21/05/2025,interruptor en mal estado,60000788.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C280,,0.0
+100001496,21/05/2025,Llave de paso de pozuelo vitrinas mala,60000791.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C170,,0.0
+100001497,21/05/2025,ventiladores de vitrina no encienden,60000861.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C170,Vitrina refrigeracion N°02,0.0
+100001498,21/05/2025,Baño tapado,,Infraestructura,Correctivo,MEAB,,C280,,0.0
+100001502,21/05/2025,cambio rodamientos sierra sin fin,60000790.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C170,Sierra sin fin,0.0
+100001504,21/05/2025,Caucho de la Cava Refrigeracion,60002932.0,Frigoristas,Correctivo,METR ORAS,,C220,,0.0
+100001513,21/05/2025,Llave cuarto de residuos,60000880.0,Infraestructura,Correctivo,MECE ORAS,30/05/2025,C240,,45.0
+100001522,22/05/2025,Error de medicion PDC,60000840.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C380,Vitrina refrigeracion N°04,5.0
+100001531,22/05/2025,Condicion insegura ventanal TI,,Infraestructura,Correctivo,MECE,05/08/2025,A290,,0.0
+100001560,23/05/2025,Cambio ubicación Camaras Servicarros,,Electromecanico,Correctivo,MEAB,,A400,CAM SERV_Perimetro 5,0.0
+100001561,23/05/2025,punto de venta sin agua,,Infraestructura,Correctivo,MECE,10/07/2025,C280,,0.0
+100001562,23/05/2025,MANTENIMIENTO CORRECTIVO REDES ELECTRICA,60000844.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C360,,0.0
+100001563,23/05/2025,VENTILADOR VITRINA PV,60000852.0,Frigoristas,Correctivo,MECE ORAS,10/07/2025,C360,Vitrina refrigeracion N°01,0.0
+100001564,23/05/2025,Molino apagado,60000908.0,Electromecanico,Correctivo,MECE ORAS,06/06/2025,C220,Molino,14.0
+100001566,23/05/2025,Cambio aislamiento tuberiea mecanica,,Frigoristas,Correctivo,METR,,C220,,0.0
+100001573,24/05/2025,Daño cava de congelacion,60000860.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C390,Condensador cava congelacion N°01,81.0
+100001576,24/05/2025,Huecos en terminaciones de cajas camaras,60000850.0,Infraestructura,Correctivo,MECE ORAS,27/05/2025,C190,,0.0
+100001578,24/05/2025,cambio de pusto lector biometrico,,Electromecanico,Correctivo,MECE,30/05/2025,C190,,0.0
+100001585,24/05/2025,arreglo de ojos de buey del punto de ven,,Electromecanico,Correctivo,MECE,29/07/2025,C110,,0.0
+100001586,24/05/2025,arregalr luces  en zona de atencion al p,,Electromecanico,Correctivo,MECE,21/07/2025,C110,,0.0
+100001587,24/05/2025,restaurar la zona de la puerta,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001588,24/05/2025,sellar el agujero de la llave de gas,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001589,24/05/2025,sellamiento de agujeros en baño de damas,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001590,24/05/2025,selar aberturas del mueble,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001592,24/05/2025,señalizacion llave de gas,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001593,24/05/2025,instalacion de soportes mesa proceso,60002927.0,Infraestructura,Correctivo,MECE ORAS,28/08/2025,C110,,0.0
+100001594,24/05/2025,reparar juntas del meson en zona cliente,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001595,24/05/2025,sellamiento de tuberia en zona pesaje,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001596,24/05/2025,cambio de tubo,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001597,24/05/2025,corregir goteo en pozuelo mesa,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001598,24/05/2025,intervenir lampar de vitrina #2,60000930.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C110,Vitrina refrigeracion N°02,0.0
+100001599,24/05/2025,revicion y reparacion del techo,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001600,24/05/2025,revision disco de la tajadora,,Electromecanico,Correctivo,MECE,21/07/2025,C110,Tajadora,0.0
+100001601,24/05/2025,realizar cambio de los cubos decorativos,60002926.0,Infraestructura,Correctivo,MECE ORAS,28/08/2025,C110,,0.0
+100001602,24/05/2025,intervencion en mesones de proceso,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001603,24/05/2025,reparacion de luces de la cava,60000931.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C110,,0.0
+100001604,24/05/2025,sellamiento de grietas,,Electromecanico,Correctivo,MECE,29/07/2025,C110,,0.0
+100001605,24/05/2025,instalacion de soporte para parrilla,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100001606,24/05/2025,sellamiento de biseles,60000875.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C110,,0.0
+100001607,24/05/2025,evaluar correcion de esquinas en cavas,,Frigoristas,Correctivo,METR,,C110,Evaporador cava refrigeracion N°01,0.0
+100001610,25/05/2025,Ventilador de cava dañado,,Frigoristas,Correctivo,MECE,27/05/2025,C270,Evaporador cava congelacion N°01,0.0
+100001611,25/05/2025,cava  se  dispara,,Frigoristas,Correctivo,MECE,29/05/2025,C290,Evaporador cava refrigeracion N°01,0.0
+100001620,26/05/2025,Arreglo Persianas,,Infraestructura,Correctivo,MEAB,,C390,,0.0
+100001621,26/05/2025,Sellamiento Vitrina Charcutería,,Frigoristas,Correctivo,MECE,27/05/2025,C230,Vitrina refrigeracion N°03,0.0
+100001622,26/05/2025,fuga de aceite molino y mantenimiento,60000867.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C170,Molino,0.0
+100001623,26/05/2025,caucho pata de la sierra,,Electromecanico,Correctivo,MECE,29/07/2025,C170,Sierra sin fin,0.0
+100001625,26/05/2025,ups se apaga,,Electromecanico,Correctivo,MECE,08/09/2025,C280,UPS,0.0
+100001627,26/05/2025,fachada en mal estado,60000868.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C210,,0.0
+100001628,26/05/2025,daño en vitrina,60000882.0,Frigoristas,Correctivo,MECE ORAS,27/05/2025,C210,Vitrina refrigeracion N°03,0.0
+100001630,26/05/2025,Vitrina congelación,,Frigoristas,Correctivo,MECE,22/07/2025,C240,Vitrina congelacion N°01,0.0
+100001634,26/05/2025,cava de refrigeracion Mala,60000878.0,Frigoristas,Correctivo,MECE ORAS,27/05/2025,C190,Evaporador cava refrigeracion N°01,0.0
+100001640,26/05/2025,Pergola punto de venta,,Infraestructura,Correctivo,MECE,05/08/2025,C230,,0.0
+100001641,26/05/2025,Fuga sala de procesos,60000903.0,Infraestructura,Correctivo,MECE ORAS,30/05/2025,C230,,0.0
+100001654,27/05/2025,ventiladores  cava de congelacion,60000886.0,Frigoristas,Correctivo,MECE ORAS,27/05/2025,C160,Evaporador cava congelacion N°01,0.0
+100001655,27/05/2025,cambio de lampara que esta malo,,Electromecanico,Correctivo,MECE,29/07/2025,C160,,0.0
+100001657,27/05/2025,LAMPARAS DAÑADAS MESA,,Electromecanico,Correctivo,MECE,06/08/2025,C340,,0.0
+100001659,27/05/2025,NEVERA CHARCUTERIA NO ENFRIA,60001068.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,C340,Vitrina refrigeracion N°01,97.0
+100001660,27/05/2025,LAMPARAS EN PARRILLA DAÑADAS,,Electromecanico,Correctivo,MECE,29/07/2025,C340,,0.0
+100001662,27/05/2025,pozuelo llave mala,60000881.0,Infraestructura,Correctivo,MECE ORAS,05/06/2025,C230,,0.0
+100001667,27/05/2025,Mantenimiento de sillas,,Infraestructura,Correctivo,MECE,10/07/2025,C410,,0.0
+100001672,27/05/2025,daño en balanza colgante,60000887.0,Metrologia,Correctivo,MECE ORAS,28/05/2025,C210,Balanza colgante N°03,0.0
+100001674,28/05/2025,VITRINA #3 CON RUIDO ANORMAL,,Frigoristas,Correctivo,MECE,29/05/2025,C110,Vitrina refrigeracion N°03,0.0
+100001675,28/05/2025,vitrina de congelacion no enciende,60000889.0,Frigoristas,Correctivo,MECE ORAS,28/05/2025,C110,Vitrina congelacion N°01,3.0
+100001676,28/05/2025,FABRICACION DE PERCHEROS PARA BOLSOS,,Electromecanico,Correctivo,MECE,17/07/2025,C110,CAM PV-ITA_Lockers,0.0
+100001677,28/05/2025,COMPRA DE CAUCHO PAR LAS ESTERAS PV,,Infraestructura,Correctivo,MECE,14/08/2025,C110,,0.0
+100001678,28/05/2025,COMPRA DE TANQUE PARA CHUT DE BASURAS,,Infraestructura,Correctivo,MECE,28/05/2025,C110,,0.0
+100001679,28/05/2025,Instalacion de aire,,Infraestructura,Correctivo,MECE,28/05/2025,C190,,0.0
+100001680,28/05/2025,ojos de buey malos,,Electromecanico,Correctivo,MECE,29/07/2025,C190,,0.0
+100001681,28/05/2025,grifos desajustados,,Infraestructura,Correctivo,MECE,30/05/2025,C190,,0.0
+100001688,28/05/2025,datafono,60001111.0,Electromecanico,Correctivo,MECE ORAS,27/06/2025,C100,,1.0
+100001704,28/05/2025,Freidora no enciende,60001734.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C180,Freidora electrica N°01,0.0
+100001705,28/05/2025,Nevera  (ensaladera) botando agua,60000932.0,Frigoristas,Correctivo,MECE ORAS,29/05/2025,C180,Nevera horizontal N°01,0.0
+100001714,29/05/2025,La tajadora se frena,60001274.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C140,Tajadora,0.0
+100001715,29/05/2025,vitrina de lo congelado mala temperatura,,Frigoristas,Correctivo,MECE,29/05/2025,C190,Vitrina refrigeracion N°02,0.0
+100001719,29/05/2025,Fachada,,,,,,,,
+100001721,29/05/2025,Revision tecnica de red electrica,,Electromecanico,Correctivo,MECE,29/07/2025,C140,,0.0
+100001722,29/05/2025,Vitrina de refrigeracion,60001299.0,Frigoristas,Correctivo,MECE ORAS,16/06/2025,C140,Vitrina refrigeracion N°03,0.0
+100001725,29/05/2025,Mantenimiento bascula de piso,60001088.0,Metrologia,Correctivo,MECE ORAS,06/06/2025,C170,Bascula plataforma,0.0
+100001726,29/05/2025,Sanitario Baño de las Mujeres,60000943.0,Infraestructura,Correctivo,MECE ORAS,03/07/2025,C220,,0.0
+100001730,29/05/2025,cierra en mto contactor malo y enchufe,,Electromecanico,Correctivo,MECE,21/07/2025,C190,Sierra sin fin,0.0
+100001733,29/05/2025,Silla gerencia dañada,,Infraestructura,Correctivo,MECE,10/07/2025,A280,,0.0
+100001734,29/05/2025,Mantenimiento luces TI,,Electromecanico,Correctivo,MECE,29/07/2025,A290,,0.0
+100001735,29/05/2025,Gabinete pozuelo de parrilla,,Infraestructura,Correctivo,MECE,05/08/2025,C200,,0.0
+100001736,29/05/2025,Suiche porciparrilla,,Electromecanico,Correctivo,MECE,29/07/2025,C200,,0.0
+100001737,29/05/2025,Bisagras gabinetes pozuelo porciparrilla,,Infraestructura,Correctivo,MECE,30/05/2025,C200,,0.0
+100001738,29/05/2025,cambio del pedal del lavamanos sala de p,60001385.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C110,,0.0
+100001739,29/05/2025,compra de acrilico para vitrinas,,Infraestructura,Correctivo,MECE,30/05/2025,C110,,0.0
+100001740,29/05/2025,Cambio de la bascula de repeso,,Metrologia,Correctivo,MECE,30/05/2025,C110,Balanza repeso N°01,0.0
+100001745,30/05/2025,Pintura alistamiento GSPA,,Infraestructura,Correctivo,MECE,21/08/2025,A400,,0.0
+100001747,30/05/2025,Cambiar chapa puerta principal GSPA,60003211.0,Infraestructura,Correctivo,METR ORAS,,A400,,0.0
+100001754,30/05/2025,Vitrina # 1 con daño en el vidrio,60001089.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,C110,Vitrina refrigeracion N°01,0.0
+100001755,30/05/2025,Daño en reja enrollable,60001102.0,Electromecanico,Correctivo,MECE ORAS,09/06/2025,C310,Puerta automatica N°04,154.0
+100001756,30/05/2025,Nevera Charecuteria temperatura,60000966.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C230,Electrodomesticos menores,0.0
+100001759,30/05/2025,Vitrina de refrigeracion botando oxido,,Frigoristas,Correctivo,MECE,03/09/2025,C140,Vitrina refrigeracion N°01,0.0
+100001763,30/05/2025,Vitrina congelación,60001090.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C240,Vitrina congelacion N°02,0.0
+100001764,30/05/2025,Lampara extractor de Parrilla,,Electromecanico,Correctivo,MECE,01/08/2025,C240,Campana extractora,0.0
+100001766,30/05/2025,limpieza vidrio sala procesos,,Infraestructura,Correctivo,MECE,17/07/2025,C170,,0.0
+100001767,30/05/2025,limpieza tanque de agua edificio,,Infraestructura,Correctivo,MECE,10/06/2025,C170,,0.0
+100001768,30/05/2025,limpieza bajo las vitrinas del pv,,Infraestructura,Correctivo,MECE,03/06/2025,C170,,0.0
+100001769,30/05/2025,reparar huecos en cielo de drywall,,Infraestructura,Correctivo,MECE,05/08/2025,C170,,0.0
+100001771,30/05/2025,panel de sobreponer malo,,Electromecanico,Correctivo,MECE,29/07/2025,C170,,0.0
+100001777,31/05/2025,CAVA REFRIGERACION DEFICIENTE,,Frigoristas,Correctivo,MECE,03/06/2025,C190,Evaporador cava refrigeracion N°01,0.0
+100001778,31/05/2025,Al molino le falta el empaque del Gusano,60001130.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C190,Molino,0.0
+100001787,31/05/2025,Cava de congelacion votando agua,,Frigoristas,Correctivo,MECE,07/07/2025,C260,Evaporador cava congelacion N°01,0.0
+100001788,31/05/2025,base de la nevera parrilla deteriorada,60002253.0,Frigoristas,Correctivo,MECE ORAS,26/07/2025,C260,Nevera domestica N°01,0.0
+100001789,31/05/2025,tablero cava de congelacion,4000024.0,Frigoristas,Correctivo,MECE ORAS,21/06/2025,C320,Evaporador cava congelacion N°01,0.0
+100001790,01/06/2025,Sierra sin Fin,,Electromecanico,Correctivo,MECE,16/06/2025,C240,Sierra sin fin,0.0
+100001792,01/06/2025,Pedal de pozuelo de procesos con fuga,,Infraestructura,Correctivo,MECE,05/08/2025,C170,,0.0
+100001795,01/06/2025,TEMPERATURAS VITRINAS,60001081.0,Frigoristas,Correctivo,MECE ORAS,05/06/2025,C470,Vitrina refrigeracion N°01,0.0
+100001798,02/06/2025,Vitrina Con Temperatura Alta #1,4000023.0,Frigoristas,Correctivo,MECE ORAS,21/06/2025,C360,Vitrina refrigeracion N°01,26.0
+100001800,03/06/2025,Bascula Master apagada,60000968.0,Metrologia,Correctivo,MECE ORAS,03/06/2025,C200,Balanza colgante N°01,3.0
+100001809,03/06/2025,sierra sin fin,60000983.0,Electromecanico,Correctivo,MECE ORAS,05/06/2025,C100,Sierra sin fin,7.0
+100001811,03/06/2025,IMPRESION DE ETIQUETADORA MALA,60000972.0,Metrologia,Correctivo,MECE ORAS,03/06/2025,C200,Balanza etiquetadora,0.0
+100001812,03/06/2025,Cerradura puerta pricipal dañada,60001317.0,Infraestructura,Correctivo,MECE ORAS,18/06/2025,C290,,0.0
+100001825,03/06/2025,Freidora parrilla,60001151.0,Electromecanico,Correctivo,MECE ORAS,16/06/2025,C240,Freidora electrica N°01,0.0
+100001826,03/06/2025,Motores de cava,60001382.0,Frigoristas,Correctivo,MECE ORAS,21/06/2025,C240,Condensador cava congelacion N°01,0.0
+100001831,04/06/2025,cambio de teclado,,Infraestructura,Correctivo,MECE,04/06/2025,C110,,0.0
+100001832,04/06/2025,manteniemiento a carro trasportador,,Infraestructura,Correctivo,MECE,20/08/2025,C110,,0.0
+100001833,04/06/2025,mantenimiento vitrinas,,Infraestructura,Correctivo,MECE,17/07/2025,C110,,0.0
+100001840,04/06/2025,Equipo de limpieza lodo sedimentado pozo,,Infraestructura,Correctivo,METR,,C280,,0.0
+100001862,04/06/2025,vitrina congelacion con temperatura alta,60001025.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,C290,Vitrina refrigeracion N°01,0.0
+100001871,04/06/2025,temperatura alta en cava cong,4000022.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,C350,Controlador cava congelacion N°01,0.0
+100001872,04/06/2025,daño en sierra sin fin,60001470.0,Electromecanico,Correctivo,MECE ORAS,24/06/2025,C210,Sierra sin fin,0.0
+100001886,05/06/2025,NEVERA DE PARRILA NO CONGELA,60001514.0,Frigoristas,Correctivo,MECE ORAS,28/07/2025,C280,Nevera vertical mixta,945.0
+100001888,05/06/2025,Boton de encendido de la sierra malo,60001533.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C280,Sierra sin fin,0.0
+100001889,05/06/2025,instalacion de botiquin NUEVO en pared,60001169.0,Infraestructura,Correctivo,MECE ORAS,10/06/2025,C170,,0.0
+100001891,05/06/2025,Desague tapado,60001350.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C150,,0.0
+100001892,05/06/2025,Tapa tram,,,,,,,,
+100001893,05/06/2025,cajon monedero,,Infraestructura,Correctivo,MECE,07/06/2025,C210,,0.0
+100001908,06/06/2025,ARREGLO CANILLA,,Infraestructura,Correctivo,MECE,05/08/2025,A280,,0.0
+100001911,06/06/2025,mantenimiento puertas enrrollables,60001116.0,Electromecanico,Correctivo,MECE ORAS,03/07/2025,C320,,0.0
+100001925,06/06/2025,fuga de agua en baño de hombres PV,60001121.0,Infraestructura,Correctivo,MECE ORAS,10/06/2025,C170,,0.0
+100001926,06/06/2025,TANQUE DE AGUA NO LLENA,60001207.0,Infraestructura,Correctivo,MECE ORAS,11/06/2025,C160,,0.0
+100001928,06/06/2025,Fritadora se le daño el encendedor,60001164.0,Electromecanico,Correctivo,MECE ORAS,24/06/2025,C160,Freidora electrica N°01,0.0
+100001935,07/06/2025,fuga en llave en pozuelo,60001200.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C160,,0.0
+100001941,07/06/2025,cortinas cavas rotas,,Frigoristas,Correctivo,MECE,10/07/2025,C340,,0.0
+100001942,07/06/2025,cortinas de cava rotas,,Frigoristas,Correctivo,MECE,10/07/2025,C340,,0.0
+100001943,07/06/2025,Manteniento puertas enrollables,60001133.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C300,,0.0
+100001947,08/06/2025,Cava de congelacion con temperaura incon,60001579.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C190,Evaporador cava congelacion N°01,0.0
+100001948,09/06/2025,Persiana enrollable,60001154.0,Infraestructura,Correctivo,MECE ORAS,10/06/2025,C230,,0.0
+100001953,09/06/2025,Puerta de oficina desajustada,60001303.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C170,,0.0
+100001963,09/06/2025,DAÑO BRAZO HIDRAULICO DE PARRILLA,60001165.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C310,,0.0
+100001966,09/06/2025,TAPONAMIENTO DE CAÑERIAS URGENTE,,Infraestructura,Correctivo,MECE,10/06/2025,C310,,0.0
+100001970,09/06/2025,DAÑO EN BOTON ENCENDIDO SIN FIN,60001171.0,Electromecanico,Correctivo,MECE ORAS,10/06/2025,C310,Sierra sin fin,0.0
+100001972,09/06/2025,temperatura alta cava de congelación,60001380.0,Frigoristas,Correctivo,MECE ORAS,03/07/2025,C180,Evaporador cava congelacion N°01,0.0
+100001974,09/06/2025,MANT CORTINAS ENRROLLABLES,60001150.0,Electromecanico,Correctivo,MECE ORAS,16/07/2025,C280,Puerta automatica N°01,0.0
+100001975,09/06/2025,Temperatura de vitrina mala,60001168.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C120,Vitrina refrigeracion N°02,21.0
+100001980,09/06/2025,Posuelo parrilla taquiado,60001167.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C180,,0.0
+100001998,10/06/2025,Intervencion Caja Aguas LLuvias,60001185.0,Infraestructura,Correctivo,METR ORAS,,C230,,0.0
+100001999,10/06/2025,Freidora para conexion,60001172.0,Electromecanico,Correctivo,MECE ORAS,20/06/2025,C340,Freidora electrica N°01,0.0
+100002001,10/06/2025,vitrina # 3 con novedad del desague,60001346.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,C110,Vitrina refrigeracion N°03,0.0
+100002003,11/06/2025,Sierra sin funcionar - conector dañado,60001260.0,Electromecanico,Correctivo,MECE ORAS,13/06/2025,C260,Sierra sin fin,0.0
+100002010,11/06/2025,vitrina con vidrio suelto,60002122.0,Frigoristas,Correctivo,MECE ORAS,22/07/2025,C290,Vitrina refrigeracion N°02,0.0
+100002012,11/06/2025,gotera techo,60001272.0,Infraestructura,Correctivo,MECE ORAS,21/06/2025,C290,,0.0
+100002017,11/06/2025,Picadora parrilla - sin funcionar,60001454.0,Electromecanico,Correctivo,MECE ORAS,20/08/2025,C260,Electrodomesticos menores,2.0
+100002022,11/06/2025,Sillas secretariales en mal estado,,Infraestructura,Correctivo,MEAB,,A400,,0.0
+100002023,11/06/2025,Llantas de carros de canastas dañados,60001193.0,Infraestructura,Correctivo,MECE ORAS,21/06/2025,C260,,0.0
+100002042,11/06/2025,Daño llave baño hombres TI,60001210.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,A290,,0.0
+100002046,12/06/2025,Cambio vidrio Vitrina,60001582.0,Frigoristas,Correctivo,MECE ORAS,07/07/2025,C220,Vitrina refrigeracion N°01,0.0
+100002047,12/06/2025,punto de venta sin agua,60001271.0,Infraestructura,Correctivo,MECE ORAS,17/06/2025,C290,,0.0
+100002052,12/06/2025,cava de refrigeracion  se apaga,60001318.0,Frigoristas,Correctivo,MECE ORAS,22/07/2025,C290,Evaporador cava refrigeracion N°01,0.0
+100002055,12/06/2025,daño en sanitario fuga de agua,60001252.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C170,,0.0
+100002059,12/06/2025,las dos vitrinas no tienen frio,60001276.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,C190,Vitrina refrigeracion N°02,0.0
+100002060,12/06/2025,sifones del pv  tapados,60001316.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C290,,0.0
+100002061,12/06/2025,Basculas colgantes,60001293.0,Metrologia,Correctivo,MECE ORAS,17/06/2025,C120,Balanza colgante N°05,0.0
+100002062,12/06/2025,Daño pared malacate,60002445.0,Infraestructura,Correctivo,MECE ORAS,14/08/2025,C120,,0.0
+100002063,12/06/2025,Compra sanitario pv cali,60001261.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C400,,0.0
+100002064,12/06/2025,Nevera de charcuteria oxidada,,Frigoristas,Correctivo,MECE,19/08/2025,C110,Vitrina refrigeracion N°03,0.0
+100002065,12/06/2025,arreglo de tajadora,60001449.0,Electromecanico,Correctivo,MECE ORAS,24/06/2025,C110,Tajadora,0.0
+100002066,12/06/2025,caja de herramineta oxidada,,Infraestructura,Correctivo,MECE,05/08/2025,C110,,0.0
+100002080,13/06/2025,DAÑO DE TURNERO,,Metrologia,Correctivo,MECE,19/07/2025,C310,,0.0
+100002105,14/06/2025,VERIFICACION TEM NEVERA SERVICARROS,60001301.0,Frigoristas,Correctivo,MECE ORAS,17/06/2025,A400,Nevera vertical refrigeracion N°01,0.0
+100002106,14/06/2025,AVERIA BAÑO ALMACEN SERVICARROS,,Infraestructura,Correctivo,MECE,13/08/2025,A400,,0.0
+100002108,14/06/2025,pluma dañada parrilla,60002515.0,Infraestructura,Correctivo,METR ORAS,,C290,,0.0
+100002110,15/06/2025,lampara primer piso mala,,Electromecanico,Correctivo,MECE,06/08/2025,C170,,0.0
+100002111,15/06/2025,VENTILADOR DE CONGELACION,60001302.0,Frigoristas,Correctivo,MECE ORAS,26/07/2025,C360,Evaporador cava congelacion N°01,890.0
+100002112,16/06/2025,novedad en la balanza master,60001297.0,Metrologia,Correctivo,MECE ORAS,16/06/2025,C110,Balanza colgante N°01,0.0
+100002114,16/06/2025,Vitrina y sala de procesos no enfria,60001311.0,Frigoristas,Correctivo,MECE ORAS,18/06/2025,C150,Vitrina refrigeracion N°03,4.0
+100002129,16/06/2025,Freidora parrilla,60001393.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C240,Freidora electrica N°01,0.0
+100002130,16/06/2025,pedales pozuelos,60001384.0,Infraestructura,Correctivo,MECE ORAS,20/08/2025,C240,,0.0
+100002134,16/06/2025,patineta en mal estado,60002507.0,Infraestructura,Correctivo,MECE ORAS,25/08/2025,C210,,0.0
+100002141,17/06/2025,estanteria de jabones mal uso de canasta,,Infraestructura,Correctivo,MECE,18/06/2025,C190,,0.0
+100002142,17/06/2025,control de temperatura,60001431.0,Frigoristas,Correctivo,MECE ORAS,21/06/2025,C240,Vitrina congelacion N°02,0.0
+100002148,17/06/2025,exractor de aire,60001447.0,Electromecanico,Correctivo,MECE ORAS,24/06/2025,C410,Campana extractora,0.0
+100002151,17/06/2025,malacate dañado,,Electromecanico,Correctivo,MECE,03/07/2025,C290,Malacate,0.0
+100002152,17/06/2025,Mantenimiento patio de lavado almacen gt,60001396.0,Infraestructura,Correctivo,MECE ORAS,24/07/2025,A330,,0.0
+100002165,18/06/2025,adecuar dos sillas que tenemos para la c,,Infraestructura,Correctivo,MECE,21/06/2025,C190,,0.0
+100002170,18/06/2025,Rodamiento carro sin fin,,Electromecanico,Correctivo,MECE,24/06/2025,C230,Sierra sin fin,0.0
+100002171,18/06/2025,freidora parrilla,60001519.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C320,Freidora electrica N°01,0.0
+100002176,19/06/2025,Basculas colgantes con falla,60001418.0,Metrologia,Correctivo,MECE ORAS,20/06/2025,C120,Balanza colgante N°03,0.0
+100002187,19/06/2025,Fachada exterior en mal estado,,Infraestructura,Correctivo,METR,,C120,,0.0
+100002194,19/06/2025,Vitrina sin temperatura,60001443.0,Frigoristas,Correctivo,MECE ORAS,21/06/2025,C120,Vitrina refrigeracion N°03,0.0
+100002207,19/06/2025,Molino,60001399.0,Electromecanico,Correctivo,MECE ORAS,21/06/2025,C240,Molino,0.0
+100002236,19/06/2025,Tapas de Locker,,Infraestructura,Correctivo,MECE,05/08/2025,C240,,0.0
+100002237,20/06/2025,,,Frigoristas,Correctivo,ENER MECE,20/06/2025,C240,Controlador nevera congelacion N°01,0.0
+100002238,20/06/2025,,,Frigoristas,Correctivo,ENER MECE,20/06/2025,C240,Controlador nevera horizontal N°01,0.0
+100002240,20/06/2025,MANIGUETA DE CAVA CONGELACION,60001574.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C190,Condensador cava refrigeracion N°02,0.0
+100002243,20/06/2025,Cava de refrigeracion Mala,60001435.0,Frigoristas,Correctivo,MECE ORAS,26/06/2025,C190,Evaporador cava refrigeracion N°02,0.0
+100002249,20/06/2025,CORTO MULTIPLE PRIORIDAD,,Frigoristas,Correctivo,MECE,08/08/2025,C190,,0.0
+100002259,20/06/2025,,,Metrologia,Correctivo,ENER MECE,20/06/2025,C220,Balanza repeso N°01,0.0
+100002261,20/06/2025,,,Metrologia,Correctivo,ENER MECE,20/06/2025,C190,Balanza repeso N°01,0.0
+100002267,20/06/2025,Reparacion Bascula colgante,60001416.0,Metrologia,Correctivo,MECE ORAS,08/07/2025,C150,Balanza colgante N°06,0.0
+100002286,21/06/2025,,,Frigoristas,Correctivo,ENER MECE,21/06/2025,C230,Controlador vitrina congelacion N°02,0.0
+100002287,21/06/2025,cava de congelacion temperatura alta,60001429.0,Frigoristas,Correctivo,MECE ORAS,02/09/2025,C320,Evaporador cava congelacion N°01,0.0
+100002292,21/06/2025,daño la cava de congelcion,60001656.0,Frigoristas,Correctivo,MECE ORAS,08/07/2025,C340,Condensador cava congelacion N°01,11.0
+100002303,22/06/2025,LAMPARA DE VITRINA SE QUEMO,60001489.0,Frigoristas,Correctivo,MECE ORAS,27/06/2025,C190,Vitrina refrigeracion N°04,0.0
+100002306,23/06/2025,SIERRA NO LE FUNCIONA LA GUIA,,Electromecanico,Correctivo,MECE,03/07/2025,C190,Sierra sin fin,0.0
+100002307,23/06/2025,mantenimiento reja del centro,60001543.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C140,,0.0
+100002312,23/06/2025,Pozuelo empleados,60002438.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C240,,0.0
+100002320,24/06/2025,Molino NO enciende,60001475.0,Electromecanico,Correctivo,MECE ORAS,26/06/2025,C240,Molino,0.0
+100002331,24/06/2025,no encienden las luces del baño,,Electromecanico,Correctivo,MECE,29/07/2025,C210,,0.0
+100002332,24/06/2025,cuarto de aseo,,Infraestructura,Correctivo,MECE,26/06/2025,C210,,0.0
+100002333,24/06/2025,cuarto de almacenamiento de residuos,,Electromecanico,Correctivo,MECE,26/06/2025,C210,,0.0
+100002353,25/06/2025,archivador administracion dañado,60001535.0,Infraestructura,Correctivo,MECE ORAS,24/07/2025,C290,,0.0
+100002360,25/06/2025,Revision Bascula colgante,60001532.0,Metrologia,Correctivo,MECE ORAS,26/06/2025,C150,Balanza colgante N°02,0.0
+100002363,25/06/2025,Puerta Principal,60001518.0,Infraestructura,Correctivo,MECE ORAS,25/07/2025,C180,,0.0
+100002372,25/06/2025,EXTRACTOR PARILLA DEJO DE FUNCIONAR,,Electromecanico,Correctivo,MECE,02/07/2025,C110,Campana extractora,0.0
+100002375,25/06/2025,EXTRACTOR PARILLA DEJO DE FUNCIONAR,,Electromecanico,Correctivo,MECE,02/07/2025,C110,Campana extractora,0.0
+100002400,26/06/2025,Pintura general oficinas GSPA,,Infraestructura,Correctivo,MECE,21/08/2025,A400,,0.0
+100002401,26/06/2025,Daño Nevera pdc congelacion,60001659.0,Frigoristas,Correctivo,MECE ORAS,21/07/2025,C390,Vitrina congelacion N°01,28.0
+100002410,26/06/2025,Vitrina refrigeracion,60001737.0,Frigoristas,Correctivo,MECE ORAS,04/07/2025,C240,Rack de refrigeracion,0.0
+100002418,26/06/2025,bascula de repeso,60001624.0,Metrologia,Correctivo,MECE ORAS,03/07/2025,C140,Balanza repeso N°01,0.0
+100002442,26/06/2025,compra de manguera,,Infraestructura,Correctivo,MECE,10/07/2025,C110,,0.0
+100002462,27/06/2025,bascula trabajando en local-,60001625.0,Metrologia,Correctivo,MECE ORAS,28/06/2025,C210,Balanza colgante N°05,0.0
+100002466,27/06/2025,cambio de cajon de bascula de piso,,Metrologia,Correctivo,MECE,09/07/2025,C190,Bascula plataforma,0.0
+100002468,27/06/2025,Revisar energia regulada,,Electromecanico,Correctivo,MECE,29/07/2025,C190,,0.0
+100002486,27/06/2025,Pistola de la manguera malo,60001575.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C190,,0.0
+100002489,27/06/2025,panel led 18 de incrustar malo,,Electromecanico,Correctivo,MECE,29/07/2025,C170,,0.0
+100002490,27/06/2025,cambiar candado de la cava,,Frigoristas,Correctivo,MECE,01/07/2025,C170,,0.0
+100002491,27/06/2025,Zona parqueadero,,Infraestructura,Correctivo,MECE,13/08/2025,C470,,0.0
+100002493,27/06/2025,Reparacion de puerta de congelacion,,Frigoristas,Correctivo,MECE,28/07/2025,C300,Evaporador cava congelacion N°01,0.0
+100002494,27/06/2025,Reparacion gato puerta salida cliente,,Infraestructura,Correctivo,MEAB,,C300,,0.0
+100002496,27/06/2025,Sierra con corto inhabilitada,60001623.0,Electromecanico,Correctivo,MECE ORAS,03/07/2025,C160,Sierra sin fin,0.0
+100002499,28/06/2025,la balanzamaster no funciona,60001668.0,Metrologia,Correctivo,MECE ORAS,03/07/2025,C110,Balanza colgante N°01,0.0
+100002500,28/06/2025,carro para  recibir planta  dañado,60001614.0,Infraestructura,Correctivo,MECE ORAS,25/07/2025,C290,,0.0
+100002503,28/06/2025,vidrio panoramico de vitrina se desprend,60001643.0,Frigoristas,Correctivo,MECE ORAS,01/07/2025,C170,Vitrina refrigeracion N°02,0.0
+100002504,28/06/2025,vidrio panoramico de vitrina se desprend,60001645.0,Frigoristas,Correctivo,MECE ORAS,01/07/2025,C170,Vitrina refrigeracion N°02,0.0
+100002508,28/06/2025,ruido en la rejilla del techos del baño.,,Electromecanico,Correctivo,MECE,04/08/2025,C460,,0.0
+100002512,29/06/2025,posible fuga de gas,60002005.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C410,Freidora a gas N°02,0.0
+100002513,29/06/2025,tuberia taqueada,60001653.0,Infraestructura,Correctivo,MECE ORAS,01/08/2025,C410,,0.0
+100002514,29/06/2025,Sierra tiene un Ruido feo,60001658.0,Electromecanico,Correctivo,MECE ORAS,03/07/2025,C190,Sierra sin fin,0.0
+100002516,29/06/2025,Manguera Parrilla,60001655.0,Electromecanico,Correctivo,MECE ORAS,03/07/2025,C240,,0.0
+100002518,29/06/2025,Vitrina de refrigeracion,60001728.0,Frigoristas,Correctivo,MECE ORAS,03/07/2025,C190,Vitrina refrigeracion N°01,4.0
+100002521,30/06/2025,vitrina presenta corto y olor a quemado,60001837.0,Frigoristas,Correctivo,MECE ORAS,07/07/2025,C210,Vitrina refrigeracion N°02,0.0
+100002526,01/07/2025,AVERIA INTERRUPTOTR Y TOMA DE LUZ SERVIC,60001877.0,Electromecanico,Correctivo,MECE ORAS,10/07/2025,A400,,0.0
+100002527,01/07/2025,TEMPERATURA ALTA VITRINA CONGELACION,60001744.0,Frigoristas,Correctivo,MECE ORAS,07/07/2025,C220,Vitrina congelacion N°01,0.0
+100002534,01/07/2025,BALANZA N°9,60001657.0,Metrologia,Correctivo,MECE ORAS,02/07/2025,C180,Balanza colgante N°09,0.0
+100002536,01/07/2025,FREIDORA,,Electromecanico,Correctivo,MECE,04/07/2025,C180,Freidora electrica N°01,0.0
+100002549,01/07/2025,Ventiladores en mal estado vitr refri,60001749.0,Frigoristas,Correctivo,MECE ORAS,14/07/2025,C330,Vitrina refrigeracion N°01,0.0
+100002559,02/07/2025,Vitrina de congelacion pequeña explosion,60001833.0,Frigoristas,Correctivo,MECE ORAS,07/07/2025,C150,Vitrina congelacion N°01,2.0
+100002564,02/07/2025,Vitrina 1 tiene olor ofensivo,60001795.0,Frigoristas,Correctivo,MECE ORAS,08/07/2025,C140,Vitrina refrigeracion N°01,0.0
+100002584,02/07/2025,Revision drenajes PV,60001706.0,Infraestructura,Correctivo,MECE ORAS,13/08/2025,C470,,0.0
+100002587,02/07/2025,vitrina de congelación mala,60001834.0,Frigoristas,Correctivo,MECE ORAS,07/07/2025,C160,Vitrina congelacion N°01,0.0
+100002597,03/07/2025,Mtto implementos de lubricación GSPA,60001871.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,A400,Sistema neumático dispensador lubricante,0.0
+100002604,03/07/2025,Revison Camara de Parrilla,,Electromecanico,Correctivo,MEAB,,C250,CAM PV-APTD-Parrilla,0.0
+100002629,04/07/2025,Molino con fallas,60001733.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C400,Molino,0.0
+100002630,04/07/2025,DESGASTE BATERIA TURNERO,60001916.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C310,Electrodomesticos menores,0.0
+100002632,04/07/2025,DAÑO BASE DE PLANCHA DE PARRILLA,,Electromecanico,Correctivo,MECE,29/07/2025,C310,Plancha N°01,0.0
+100002634,04/07/2025,Vitrina congelación #2,60001743.0,Frigoristas,Correctivo,MECE ORAS,07/07/2025,C240,Controlador vitrina congelacion N°02,25.0
+100002635,04/07/2025,Camara de Locker de Sincelejo por fuera,,Electromecanico,Correctivo,MEAB,,C290,CAM PV-SIN_Lockers,0.0
+100002636,04/07/2025,lamparas externas mal estado,,Electromecanico,Correctivo,MECE,21/07/2025,C260,,0.0
+100002640,04/07/2025,Vitrina congelación,60002113.0,Frigoristas,Correctivo,MECE ORAS,21/07/2025,C240,Vitrina congelacion N°01,0.0
+100002642,04/07/2025,Sierra,60002095.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C140,Sierra sin fin,0.0
+100002644,05/07/2025,Cava de refrigeracion infraesctruturas o,,Frigoristas,Correctivo,METR,,C190,,0.0
+100002646,05/07/2025,Legalizacion daño local PV Poblado,60001793.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C180,,0.0
+100002648,05/07/2025,tubo roton lavamanos parrilla,60002016.0,Infraestructura,Correctivo,MECE ORAS,24/07/2025,C110,,0.0
+100002649,08/05/2025,automatico malo de luces exteriores,,Electromecanico,Correctivo,MECE,29/07/2025,C350,,0.0
+100002668,07/07/2025,bascula de repeso,,Metrologia,Correctivo,MECE,10/07/2025,C140,Balanza repeso N°01,0.0
+100002677,07/07/2025,Cava de congelación no enfría,60001909.0,Frigoristas,Correctivo,MECE ORAS,11/07/2025,C190,Condensador cava congelacion N°01,0.0
+100002678,07/07/2025,reparacion de llave de paso clientes,60002223.0,Infraestructura,Correctivo,MECE ORAS,24/07/2025,C370,,0.0
+100002679,07/07/2025,reparacion de bomba baño empleados,,Infraestructura,Correctivo,METR,,C370,,0.0
+100002680,07/07/2025,Revision de horno microondas,60001973.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,A300,Electrodomesticos menores,0.0
+100002681,07/07/2025,Revision de baño hombres gth,60002210.0,Infraestructura,Correctivo,MECE ORAS,24/07/2025,A300,,0.0
+100002682,07/07/2025,pozuelo vitrinas,60001858.0,Infraestructura,Correctivo,MECE ORAS,10/07/2025,C190,,0.0
+100002683,07/07/2025,Perdida visual camara de parrilla,,Electromecanico,Correctivo,MEAB,,C250,CAM PV-APTD-Parrilla,0.0
+100002692,08/07/2025,carro para transportar producto malo,60001857.0,Infraestructura,Correctivo,MECE ORAS,24/07/2025,C190,,0.0
+100002698,08/07/2025,horno no calienta,,Electromecanico,Correctivo,MECE,29/07/2025,C280,Electrodomesticos menores,0.0
+100002708,09/07/2025,Vitrina con ruido en motor,60001946.0,Frigoristas,Correctivo,MECE ORAS,14/07/2025,C160,Vitrina refrigeracion N°04,48.0
+100002716,09/07/2025,Legalización Tarjeta CPU,60001866.0,Metrologia,Correctivo,MECE ORAS,24/07/2025,C140,Balanza colgante N°05,0.0
+100002720,09/07/2025,Camara entrada princ alm serv sin visual,,Electromecanico,Correctivo,MEAB,,A400,CAM SERV_Entrada Principal Almacen,0.0
+100002721,09/07/2025,Legalización Tarjeta Display,60001868.0,Metrologia,Correctivo,MECE ORAS,24/07/2025,C110,Balanza colgante N°04,0.0
+100002722,09/07/2025,reparacion de molino,,Electromecanico,Correctivo,MECE,21/07/2025,C370,Molino,0.0
+100002724,09/07/2025,reparacion de grietas techos,,Infraestructura,Correctivo,METR,,C370,,0.0
+100002727,09/07/2025,Legalización Tarjeta Display Bello,60001869.0,Metrologia,Correctivo,MECE ORAS,24/07/2025,C220,Balanza colgante N°02,0.0
+100002728,09/07/2025,Legalización Tarjeta CPU Rionegro,60001870.0,Metrologia,Correctivo,MECE ORAS,24/07/2025,C230,Balanza colgante N°09,0.0
+100002731,09/07/2025,fuga de agua en vitrina,60001949.0,Frigoristas,Correctivo,MECE ORAS,14/07/2025,C170,Vitrina congelacion N°01,0.0
+100002732,09/07/2025,Suiche de campana de parrilla malo,,Electromecanico,Correctivo,MECE,29/07/2025,C570,Campana extractora,0.0
+100002736,09/07/2025,Luces exteriores,,Electromecanico,Correctivo,MECE,29/07/2025,C350,,0.0
+100002737,09/07/2025,Molino no enciende,60001889.0,Electromecanico,Correctivo,MECE ORAS,10/07/2025,C120,Molino,0.0
+100002738,09/07/2025,monedero caja,,Electromecanico,Correctivo,MECE,01/08/2025,C100,Electrodomesticos menores,0.0
+100002739,09/07/2025,Cortina de cava averiada,,Frigoristas,Correctivo,MECE,14/07/2025,C120,,0.0
+100002740,09/07/2025,luz vitrina de congelacio,60001921.0,Frigoristas,Correctivo,MECE ORAS,14/07/2025,C470,Vitrina congelacion N°01,0.0
+100002741,09/07/2025,Mantenimiento bodegas Don Berto,60001876.0,Infraestructura,Correctivo,METR ORAS,,C290,,0.0
+100002742,09/07/2025,Cava de congelación temperatura alta,,Frigoristas,Correctivo,MECE,12/07/2025,C250,Controlador cava congelacion N°01,0.0
+100002747,10/07/2025,FREIDORA CON FUGA DE ACEITE,60002616.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C340,Freidora electrica N°02,0.0
+100002749,10/07/2025,EXTRACTOR NO APAGA,,Electromecanico,Correctivo,MECE,29/07/2025,C340,Motor campana,0.0
+100002762,10/07/2025,mantenimiento red electrica,60001891.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C290,,0.0
+100002763,10/07/2025,fuga de aguan en lavamanos empleados,4000040.0,Infraestructura,Correctivo,MECE ORAS,23/07/2025,C210,,0.0
+100002767,10/07/2025,cable de la sierra dañado,,Electromecanico,Correctivo,MECE,21/07/2025,C110,Sierra sin fin,0.0
+100002770,10/07/2025,balansa con impresora mala,60001912.0,Metrologia,Correctivo,MECE ORAS,15/07/2025,C140,Balanza colgante N°02,0.0
+100002771,10/07/2025,balansa con display dañado,60001913.0,Metrologia,Correctivo,MECE ORAS,15/07/2025,C140,Balanza colgante N°04,0.0
+100002789,11/07/2025,Colocar llave de agua y manguera GSPA,60002815.0,Infraestructura,Correctivo,MECE ORAS,04/09/2025,A400,,0.0
+100002790,11/07/2025,Revisar y reparar sillas oficina GSPA,,Infraestructura,Correctivo,MEAB,,A400,,0.0
+100002791,11/07/2025,Reparar puerta ppal oficinas GSPA,,Infraestructura,Correctivo,MECE,21/08/2025,A400,,0.0
+100002792,11/07/2025,Cambiar cerraduras archivadores GSPA,,Infraestructura,Correctivo,MEAB,,A400,,0.0
+100002793,11/07/2025,Revision Tajadora,,Electromecanico,Correctivo,MECE,29/07/2025,C150,Tajadora,0.0
+100002803,11/07/2025,Sierra sinfin mala,60001995.0,Electromecanico,Correctivo,MECE ORAS,17/07/2025,C250,Sierra sin fin,0.0
+100002804,11/07/2025,Bascula con fallas,60002087.0,Metrologia,Correctivo,MECE ORAS,21/07/2025,C120,Balanza colgante N°01,0.0
+100002805,11/07/2025,CUARTO DE INSUMOS SIN LUZ PARILLA,,Electromecanico,Correctivo,MECE,29/07/2025,C460,,0.0
+100002806,11/07/2025,BAÑO SIN LUCES PV,,Electromecanico,Correctivo,MECE,29/07/2025,C210,,0.0
+100002813,12/07/2025,SIERRA,60001974.0,Electromecanico,Correctivo,MECE ORAS,17/07/2025,C190,Sierra sin fin,0.0
+100002814,12/07/2025,Malacate se esta quedando pegado,,Electromecanico,Correctivo,MECE,29/07/2025,C170,Malacate,0.0
+100002815,12/07/2025,Rejillas de la vitrina despegadas,60002221.0,Frigoristas,Correctivo,MECE ORAS,24/07/2025,C170,Vitrina refrigeracion N°02,0.0
+100002816,12/07/2025,puerta de cava de congelacion no abre,60002407.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C210,,0.0
+100002822,12/07/2025,puerta de vidrio no cierra,60002017.0,Infraestructura,Correctivo,MECE ORAS,23/07/2025,C290,,0.0
+100002830,13/07/2025,daño en vidrio vitrina refrigeracion,60002112.0,Frigoristas,Correctivo,MECE ORAS,21/07/2025,C110,Vitrina refrigeracion N°03,0.0
+100002833,13/07/2025,Soldar carros de aceite,60002085.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C120,Freidora a gas N°01,0.0
+100002849,14/07/2025,TUBO DE BASCULA SUELTO,,Metrologia,Correctivo,MEAB,,C280,Balanza colgante N°03,0.0
+100002856,14/07/2025,BOTON DE SIERRA FALLANDO,60001972.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C170,Sierra sin fin,0.0
+100002874,15/07/2025,luces salon general en mal estado,60001977.0,Electromecanico,Correctivo,MECE ORAS,21/07/2025,C120,,0.0
+100002875,15/07/2025,vitrina congelados pb,60001987.0,Frigoristas,Correctivo,MECE ORAS,21/07/2025,C100,Vitrina congelacion N°01,0.0
+100002876,15/07/2025,lampara oficina,,Electromecanico,Correctivo,MECE,01/08/2025,C100,,0.0
+100002880,15/07/2025,Camara caja 1 palmira sin visual,,Electromecanico,Correctivo,MEAB,,C390,CAM PV-PALM_Administracion,0.0
+100002885,15/07/2025,Nevera sin iluminacion,60002105.0,Frigoristas,Correctivo,MECE ORAS,28/07/2025,C230,Vitrina congelacion N°02,0.0
+100002887,15/07/2025,Cajas Sin Iluminacion,,Electromecanico,Correctivo,MECE,29/07/2025,C230,,0.0
+100002888,15/07/2025,Termostato de aire dañado,60002018.0,Frigoristas,Correctivo,MECE ORAS,28/07/2025,C310,Aire acondicionado central,294.0
+100002889,15/07/2025,DAÑO EN CORTINA ENRROLLABLE #4,,Electromecanico,Correctivo,MECE,17/07/2025,C310,Puerta automatica N°04,0.0
+100002895,16/07/2025,Gatos Vidrios Sueltos,60002391.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C230,Vitrina refrigeracion N°03,0.0
+100002898,16/07/2025,Microondas dañado,60002290.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,A290,Electrodomesticos menores,0.0
+100002914,16/07/2025,baños tapados,60002372.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C410,,0.0
+100002936,17/07/2025,Vitrinas no estan enfriando,60002019.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C240,Rack de refrigeracion,0.0
+100002940,17/07/2025,molino no prende,,Electromecanico,Correctivo,MECE,21/07/2025,C160,Molino,0.0
+100002941,17/07/2025,Bajon de energia,,Electromecanico,Correctivo,MECE,29/07/2025,C240,,0.0
+100002942,17/07/2025,daño en cava de congelacion,60002252.0,Frigoristas,Correctivo,MECE ORAS,26/07/2025,C210,,0.0
+100002946,17/07/2025,sonido en sierra y desnivel,60002291.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C140,Sierra sin fin,0.0
+100002993,18/07/2025,Daño en cable de cafetera,,Electromecanico,Correctivo,MECE,29/07/2025,C180,Electrodomesticos menores,0.0
+100002994,18/07/2025,Mesa de la sierra inestable,,Electromecanico,Correctivo,MECE,21/07/2025,C180,Sierra sin fin,0.0
+100003000,18/07/2025,tajadora no enciende,60002101.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C170,Tajadora,0.0
+100003006,18/07/2025,SILLA DE CAJERO CAJA 1 MALA,60002263.0,Infraestructura,Correctivo,MECE ORAS,30/08/2025,C170,,0.0
+100003012,19/07/2025,DAÑO ESTRUCTURA DE ESCALERAS,60002259.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C310,,0.0
+100003013,19/07/2025,BASCULA N° #,60002086.0,Metrologia,Correctivo,MECE ORAS,24/07/2025,C190,Balanza colgante N°03,0.0
+100003014,19/07/2025,Bombilla campana de parrilla mala,,Electromecanico,Correctivo,MECE,29/07/2025,C580,Campana extractora,0.0
+100003020,20/07/2025,cava de congela 1 piso temperatura alta,60002104.0,Frigoristas,Correctivo,MECE ORAS,24/07/2025,C190,Evaporador cava congelacion N°01,0.0
+100003026,20/07/2025,no enciende las luces del baño mujeres,,Electromecanico,Correctivo,MECE,29/07/2025,C460,,0.0
+100003027,21/07/2025,Reja cortina atascada,,Infraestructura,Correctivo,MECE,05/08/2025,C120,,0.0
+100003028,21/07/2025,vitrinas conproblemas de voltaje,,Frigoristas,Correctivo,MECE,21/07/2025,C280,Vitrina congelacion N°01,0.0
+100003029,21/07/2025,Daño en nevera de charcuteria,60002220.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C110,Vitrina refrigeracion N°03,0.0
+100003033,21/07/2025,CAFETERA AVERIADA,60002293.0,Electromecanico,Correctivo,MECE ORAS,01/08/2025,C120,Electrodomesticos menores,0.0
+100003034,21/07/2025,Cava refrigeraciòn,60002089.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C240,,0.0
+100003040,21/07/2025,ventilador de la vitrina malo,60002103.0,Frigoristas,Correctivo,MECE ORAS,11/08/2025,C170,Vitrina congelacion N°01,0.0
+100003046,21/07/2025,Vitrina Refrigeración,60002102.0,Frigoristas,Correctivo,MECE ORAS,24/07/2025,C240,Vitrina refrigeracion N°02,0.0
+100003047,21/07/2025,freidora parrilla,,Electromecanico,Correctivo,MECE,29/07/2025,C320,Freidora electrica N°01,0.0
+100003061,21/07/2025,cafetera no enciende,,Electromecanico,Correctivo,MECE,06/08/2025,C210,Electrodomesticos menores,0.0
+100003064,21/07/2025,Vitrina # 1 con alta temperatura,60002225.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C330,Vitrina refrigeracion N°03,0.0
+100003065,21/07/2025,lamina de nevra de refrigeracion dañada,,Frigoristas,Correctivo,MECE,24/07/2025,C330,Vitrina refrigeracion N°01,0.0
+100003066,21/07/2025,freidora no enciende,60002711.0,Electromecanico,Correctivo,MECE ORAS,26/08/2025,C330,Freidora electrica N°02,0.0
+100003074,22/07/2025,Revision Sierra Sin Fin,,Electromecanico,Correctivo,MECE,29/07/2025,C150,Sierra sin fin,0.0
+100003078,22/07/2025,lampara quemada en vitrina,60002250.0,Frigoristas,Correctivo,MECE ORAS,26/07/2025,C210,Vitrina refrigeracion N°02,0.0
+100003097,22/07/2025,lamparas y ojos de Buey dañados,,Electromecanico,Correctivo,MECE,29/07/2025,C330,,0.0
+100003098,22/07/2025,extractores baños porciparrillas,,Electromecanico,Correctivo,MECE,29/07/2025,C330,,0.0
+100003107,23/07/2025,AVERIA MICOONDAS ALM SERVICARROS,60002348.0,Electromecanico,Correctivo,MECE ORAS,01/08/2025,A400,Electrodomesticos menores,0.0
+100003111,23/07/2025,Vitrina de refrigeracion,,Frigoristas,Correctivo,MECE,28/07/2025,C140,Vitrina refrigeracion N°02,0.0
+100003118,23/07/2025,tuberia congelada debajo de motor,60002214.0,Frigoristas,Correctivo,MECE ORAS,24/07/2025,C100,Vitrina refrigeracion N°03,0.0
+100003124,23/07/2025,Pintura area de financiera,4000041.0,Infraestructura,Correctivo,METR ORAS,,A290,,0.0
+100003151,24/07/2025,Valvula de llave girada,60002260.0,Infraestructura,Correctivo,MECE ORAS,29/07/2025,C200,,0.0
+100003162,24/07/2025,CAUCHO PUERTA PROCESOS,,Frigoristas,Correctivo,MECE,05/09/2025,C470,,0.0
+100003163,24/07/2025,LATAS VITRINAS,,Frigoristas,Correctivo,MECE,28/07/2025,C470,,0.0
+100003164,24/07/2025,SUICHE CUARTO DE CANASTAS,,Electromecanico,Correctivo,MECE,29/07/2025,C470,,0.0
+100003165,24/07/2025,lLIMPIEZA FACHADA PV,,Infraestructura,Correctivo,MECE,29/07/2025,C470,,0.0
+100003166,24/07/2025,LUCES PV PERGOLA,,Electromecanico,Correctivo,MECE,29/07/2025,C470,,0.0
+100003167,24/07/2025,TOMAS CORRIENTE PARRILLA,,Electromecanico,Correctivo,MECE,29/07/2025,C470,,0.0
+100003168,24/07/2025,NEVERAS PARRILLA,60002462.0,Frigoristas,Correctivo,MECE ORAS,06/08/2025,C580,Nevera horizontal N°01,0.0
+100003191,25/07/2025,arreglo televisor Pv,,Electromecanico,Correctivo,MECE,29/07/2025,C330,Electrodomesticos menores,0.0
+100003192,25/07/2025,pedido ups,,Electromecanico,Correctivo,MECE,08/09/2025,C330,,0.0
+100003197,21/07/2025,VITIRNA DE REFRIGERACION TEMPERATURA ALT,60002256.0,Frigoristas,Correctivo,MECE ORAS,27/07/2025,C190,Vitrina refrigeracion N°04,0.0
+100003202,25/07/2025,Nevera de parrilla daño en temperatura,60002271.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C340,Nevera vertical mixta,0.0
+100003207,25/07/2025,Vitrina de congelación no congela,,Frigoristas,Correctivo,MECE,04/08/2025,C250,Vitrina congelacion N°01,0.0
+100003209,25/07/2025,Manguera parrilla doblada,60002374.0,Electromecanico,Correctivo,MECE ORAS,01/08/2025,C120,,0.0
+100003210,25/07/2025,Manija puerta del baño,60002301.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C120,,0.0
+100003215,26/07/2025,SUSPENCION DE ENERGIA,60002257.0,Electromecanico,Correctivo,MECE ORAS,12/08/2025,C200,,0.0
+100003219,26/07/2025,Fuga en manguera de gas,,Electromecanico,Correctivo,MECE,28/07/2025,C220,,0.0
+100003220,26/07/2025,fuga en manguera de gas,60002258.0,Electromecanico,Correctivo,MECE ORAS,29/07/2025,C220,,0.0
+100003222,27/07/2025,daño en bascula colgante,60002295.0,Metrologia,Correctivo,MECE ORAS,29/07/2025,C110,Balanza colgante N°07,0.0
+100003225,28/07/2025,Afilar Cuchillas Molino,,Electromecanico,Correctivo,MECE,29/07/2025,C230,Molino,0.0
+100003226,28/07/2025,Cortinas enrrollables,60002332.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C230,,0.0
+100003227,28/07/2025,Lavado de tanque,60002919.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C200,,0.0
+100003228,28/07/2025,Loza tanque de agua,60002918.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C200,,0.0
+100003230,28/07/2025,vitrina #4 no enciende,60002400.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C110,Vitrina refrigeracion N°03,0.0
+100003231,28/07/2025,Daño Vitrina Refrigeracion,60002268.0,Frigoristas,Correctivo,MECE ORAS,04/08/2025,C220,Vitrina refrigeracion N°01,0.0
+100003232,28/07/2025,Extension Microondas,,Electromecanico,Correctivo,MECE,29/07/2025,C210,Electrodomesticos menores,0.0
+100003234,28/07/2025,PUERTA MESA REFRIGERACION,,Frigoristas,Correctivo,MECE,04/08/2025,C340,Vitrina refrigeracion N°03,0.0
+100003235,28/07/2025,INODORO EMPLEADOS ROTO,,Infraestructura,Correctivo,MECE,29/07/2025,C340,,0.0
+100003236,28/07/2025,FUGA ORINAL EMPLEADOS,,Infraestructura,Correctivo,METR,,C340,,0.0
+100003240,28/07/2025,LONA PARASOL EXTERIOR MALA,60002266.0,Infraestructura,Correctivo,METR ORAS,,C170,,0.0
+100003248,28/07/2025,Puertas vidrios en mal estado,60002323.0,Infraestructura,Correctivo,MECE ORAS,30/07/2025,C260,,0.0
+100003251,28/07/2025,Punto de red datafono caja1,60002443.0,Electromecanico,Correctivo,MECE ORAS,06/08/2025,C260,,0.0
+100003257,28/07/2025,balanzas,,Metrologia,Correctivo,MECE,30/07/2025,C100,Balanza colgante N°03,0.0
+100003258,28/07/2025,luces cruz tecnica,,Electromecanico,Correctivo,MECE,01/08/2025,C100,,0.0
+100003276,29/07/2025,Reparacion aires Barranquilla,60002278.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,A210,Aire acondicionado msplit - casette N°01,0.0
+100003277,29/07/2025,DAÑO EN SANITARIO PARRILLA,60002567.0,Infraestructura,Correctivo,MECE ORAS,20/08/2025,C310,,0.0
+100003279,29/07/2025,Sierra esta pegando con el carrito,60002413.0,Electromecanico,Correctivo,MECE ORAS,06/08/2025,C190,Sierra sin fin,0.0
+100003280,29/07/2025,Techo gerencia con filtración,60002279.0,Infraestructura,Correctivo,MECE ORAS,01/08/2025,A280,,0.0
+100003284,29/07/2025,temperatura alta vitrina PDC,60002282.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C380,Vitrina refrigeracion N°05,0.0
+100003298,29/07/2025,abrir el botiquin pv caldas,,Infraestructura,Correctivo,MECE,05/08/2025,C140,,0.0
+100003302,30/07/2025,Bascula de apagada - no enciende,,Metrologia,Correctivo,MECE,12/08/2025,C260,Bascula plataforma,0.0
+100003305,30/07/2025,DAÑO EN MOTOR REJA #5,,Electromecanico,Correctivo,MECE,06/08/2025,C310,Puerta automatica N°04,0.0
+100003313,30/07/2025,Prestamo personal obra parqueadero,60002313.0,Infraestructura,Correctivo,MECE ORAS,30/07/2025,A400,,0.0
+100003314,30/07/2025,Lavado de tanque de agua,60002401.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C120,,0.0
+100003315,30/07/2025,Prestamo personal obra cartagena,60002315.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C300,,0.0
+100003316,30/07/2025,Prestamo personal Rionegro,60002316.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C230,,0.0
+100003326,31/07/2025,lavadora del apartamento mala,60002340.0,Electromecanico,Correctivo,MECE ORAS,27/08/2025,C250,Electrodomesticos menores,0.0
+100003327,31/07/2025,Grifo de parrilla malo,60002339.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C250,,0.0
+100003328,31/07/2025,Soldadura vitrina congelacion,,Frigoristas,Correctivo,MECE,05/09/2025,C250,Vitrina congelacion N°01,0.0
+100003341,31/07/2025,Daño en el motor ventilador del condesad,,Frigoristas,Correctivo,MECE,04/08/2025,C250,,0.0
+100003345,31/07/2025,suspension de energia,60002357.0,Electromecanico,Correctivo,MECE ORAS,04/08/2025,C230,,0.0
+100003368,01/08/2025,Bascula de piso se apaga sola,60002373.0,Metrologia,Correctivo,MECE ORAS,04/08/2025,C180,Bascula plataforma,0.0
+100003389,02/08/2025,VITRINA CONGELACION # 1,60002395.0,Frigoristas,Correctivo,MECE ORAS,06/08/2025,C470,Vitrina congelacion N°01,6.0
+100003390,02/08/2025,Luces exteriores,,Electromecanico,Correctivo,MECE,04/08/2025,C350,,0.0
+100003391,02/08/2025,luces zona atencion,,Electromecanico,Correctivo,MECE,04/08/2025,C350,,0.0
+100003392,02/08/2025,ojos de buey,,Electromecanico,Correctivo,MECE,04/08/2025,C350,,0.0
+100003393,02/08/2025,cavas,,Frigoristas,Correctivo,MECE,04/08/2025,C350,,0.0
+100003394,03/08/2025,VIDRIO DE VITRINA QUEBRADO,60002394.0,Frigoristas,Correctivo,METR ORAS,,C170,Vitrina refrigeracion N°02,0.0
+100003395,03/08/2025,BASCULA SIN IMPRESIÓN,60002397.0,Metrologia,Correctivo,MECE ORAS,06/08/2025,C210,Balanza colgante N°04,0.0
+100003396,03/08/2025,SUICHE DESPEGADO,60002465.0,Electromecanico,Correctivo,MECE ORAS,06/08/2025,C210,,0.0
+100003397,03/08/2025,BALDOSAS DESPEGADAS,60002505.0,Infraestructura,Correctivo,MECE ORAS,20/08/2025,C210,,0.0
+100003398,03/08/2025,FREIDORA MALA,60002576.0,Electromecanico,Correctivo,MECE ORAS,19/08/2025,C220,Freidora electrica N°01,0.0
+100003399,03/08/2025,Reja con grieta,60002439.0,Infraestructura,Correctivo,MECE ORAS,05/08/2025,C120,,0.0
+100003400,04/08/2025,vitrina 2 y 3 haciendo corto,,Frigoristas,Correctivo,MECE,08/08/2025,C140,Vitrina refrigeracion N°03,0.0
+100003401,04/08/2025,sierra directa,60002396.0,Electromecanico,Correctivo,MECE ORAS,06/08/2025,C280,Sierra sin fin,0.0
+100003402,04/08/2025,Bascula repeso caja display dañado,,Metrologia,Correctivo,MECE,12/08/2025,C280,Balanza repeso N°01,0.0
+100003416,04/08/2025,cava de refrigerancion se dispara,60002402.0,Frigoristas,Correctivo,MECE ORAS,11/08/2025,C290,,0.0
+100003418,04/08/2025,vidrio de vitrina se estallo,60002461.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C110,Vitrina refrigeracion N°03,84.0
+100003420,04/08/2025,daño en limpia cinta (guia de la cinta),60002577.0,Electromecanico,Correctivo,MECE ORAS,13/08/2025,C110,Sierra sin fin,0.0
+100003421,04/08/2025,PANEL LED MALO,60002399.0,Electromecanico,Correctivo,MECE ORAS,06/08/2025,C170,,0.0
+100003422,04/08/2025,refigerdor de parrilla dañado,60002545.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C340,Nevera vertical mixta,34.0
+100003423,04/08/2025,cambio de vidrio vitrina 3,,Frigoristas,Correctivo,METR,,C370,Vitrina refrigeracion N°03,0.0
+100003430,04/08/2025,vitrina 2 haciendo corto,60002510.0,Frigoristas,Correctivo,MECE ORAS,08/08/2025,C140,Vitrina refrigeracion N°02,0.0
+100003443,04/08/2025,DAÑO PEDAL DE LAVAPLATOS PARRILLA,60002785.0,Infraestructura,Correctivo,MECE ORAS,22/08/2025,C310,,0.0
+100003447,04/08/2025,daño en lampara de pasillo a cava,60002472.0,Electromecanico,Correctivo,MECE ORAS,13/08/2025,C310,,0.0
+100003459,05/08/2025,bascula de repeso,60002428.0,Metrologia,Correctivo,MECE ORAS,06/08/2025,C140,Balanza repeso N°01,0.0
+100003460,05/08/2025,,,Frigoristas,Correctivo,ENER MECE,05/08/2025,C270,Controlador cava congelacion N°01,0.0
+100003461,05/08/2025,DAÑO ILUMINACION CAMPANA PARRILLA,60002442.0,Electromecanico,Correctivo,MECE ORAS,06/08/2025,C570,Campana extractora,0.0
+100003470,05/08/2025,Fachada,60002436.0,Infraestructura,Correctivo,METR ORAS,,C250,,0.0
+100003472,05/08/2025,Vidrio de la caja registradora,,Infraestructura,Correctivo,METR,,C320,,0.0
+100003481,05/08/2025,PLANCHA,60002564.0,Electromecanico,Correctivo,MECE ORAS,19/08/2025,C150,,0.0
+100003485,06/08/2025,POZUELO PROCESOS,60002460.0,Infraestructura,Correctivo,MECE ORAS,08/08/2025,C150,,0.0
+100003492,06/08/2025,ESQUINA DE PARED PARTIDA,,Infraestructura,Correctivo,MECE,10/09/2025,C310,,0.0
+100003493,06/08/2025,DAÑO EN COLGADERAS DE CORTINAS DE CAVA,,Frigoristas,Correctivo,MECE,13/08/2025,C310,,0.0
+100003494,06/08/2025,LAMINA DEL PISO DE CANA DE RECEPCION LEV,,Infraestructura,Correctivo,MEAB,,C310,,0.0
+100003495,06/08/2025,FILTRACION DE AGUA LLUVIA EN TECHO DE AP,60002463.0,Infraestructura,Correctivo,MECE ORAS,28/08/2025,C310,,0.0
+100003500,06/08/2025,LAVADO DE FACHADA EDIFICIO PV PRADO,,Infraestructura,Correctivo,METR,,A290,,0.0
+100003501,06/08/2025,FUGA DE AGUA BAÑO PARILLA,60002456.0,Infraestructura,Correctivo,MECE ORAS,08/09/2025,C460,,0.0
+100003502,06/08/2025,DAÑO EN ESTRUCTURA DE LAS ESCALERAS,60003132.0,Infraestructura,Correctivo,MECE ORAS,10/09/2025,C310,,0.0
+100003507,06/08/2025,LUCES DE BAÑO PV,60002464.0,Electromecanico,Correctivo,MECE ORAS,11/08/2025,C210,,0.0
+100003526,06/08/2025,PUERTA DE VIDRIO ENTRADA PPAL,,Infraestructura,Correctivo,MEAB,,C470,,0.0
+100003529,06/08/2025,BAÑO EMPLEADOS MUJERES,,Infraestructura,Correctivo,MEAB,,C470,,0.0
+100003531,06/08/2025,PARED ESCALAS SEGUNDO PISO EMPLEADOS,,Infraestructura,Correctivo,MEAB,,C470,,0.0
+100003539,07/08/2025,LAVAPLATOS TAPADOS,60002508.0,Infraestructura,Correctivo,MECE ORAS,08/08/2025,C460,,0.0
+100003551,07/08/2025,Ventilador condensadores,,Frigoristas,Correctivo,MECE,08/08/2025,C240,Rack de refrigeracion,0.0
+100003555,08/08/2025,Polea de sierra desnivelada,60002496.0,Electromecanico,Correctivo,MECE ORAS,11/08/2025,C250,Sierra sin fin,0.0
+100003557,08/08/2025,ILUMINACIÓN CUARTO DE INSUMOS,,Electromecanico,Correctivo,MECE,08/08/2025,C460,,0.0
+100003561,08/08/2025,Cava  refrigeracion con temperatura alta,60002509.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C180,Evaporador cava refrigeracion N°01,4.0
+100003567,08/08/2025,ventilador de vitrina malo,60002548.0,Frigoristas,Correctivo,MECE ORAS,11/08/2025,C220,Vitrina refrigeracion N°01,0.0
+100003571,08/08/2025,Revision Aire Monitoreo,60002556.0,Frigoristas,Correctivo,MECE ORAS,11/08/2025,A290,Aire acondicionado msplit - casette N°01,3.0
+100003572,08/08/2025,Daño tapa baño Sistemas Hombres,60002794.0,Infraestructura,Correctivo,MECE ORAS,03/09/2025,A290,,0.0
+100003573,08/08/2025,sanitario hombres parrilla no vacea,60002928.0,Infraestructura,Correctivo,MECE ORAS,28/08/2025,C170,,0.0
+100003577,09/08/2025,mantenimiento vitirna,,Frigoristas,Correctivo,MECE,05/09/2025,C330,Vitrina refrigeracion N°01,0.0
+100003583,09/08/2025,DAÑO EN LA REJA DE ENTRADA A PARQUEADERO,60003226.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,C310,,0.0
+100003584,09/08/2025,DAÑO EN EL PISO DE LA ENTRADA A PARQUEAD,,Infraestructura,Correctivo,MEAB,,C310,,0.0
+100003585,09/08/2025,reparacion de filtros campana parrilla,60002706.0,Electromecanico,Correctivo,METR ORAS,,C330,Campana extractora,0.0
+100003586,09/08/2025,cambio de empaques nevera porciparrilla,,Frigoristas,Correctivo,METR,,C330,Nevera vertical refrigeracion N°01,0.0
+100003587,09/08/2025,cambio de cortinas cavas cong y refri,,Frigoristas,Correctivo,MECE,05/09/2025,C330,,0.0
+100003588,09/08/2025,instalacion de turnero,,Infraestructura,Correctivo,METR,,C330,,0.0
+100003589,09/08/2025,cambio de iluminacion de pasillo clietes,,Electromecanico,Correctivo,MECE,13/08/2025,C330,,0.0
+100003590,09/08/2025,cambio ojos de wey pergola,,Electromecanico,Correctivo,MECE,13/08/2025,C330,,0.0
+100003591,09/08/2025,cambio de bateria sanitaria,,Infraestructura,Correctivo,METR,,C330,,0.0
+100003596,09/08/2025,instalacion de rejilla,,Infraestructura,Correctivo,METR,,C330,,0.0
+100003597,09/08/2025,Vitrina sin temperatura,,Frigoristas,Correctivo,MECE,13/08/2025,C120,Vitrina refrigeracion N°01,0.0
+100003598,09/08/2025,Temperatura alta en vitrina,60002566.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C200,Vitrina refrigeracion N°03,0.0
+100003599,10/08/2025,VITRINA CONGELACION,60002613.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C150,Vitrina congelacion N°03,3.0
+100003601,10/08/2025,Cambio de llave posuelo,,Infraestructura,Correctivo,MEAB,,C390,,0.0
+100003602,10/08/2025,cambio llave lavamanos clientes parrilla,,Infraestructura,Correctivo,MEAB,,C390,,0.0
+100003603,10/08/2025,tubo procesos reventado,,Infraestructura,Correctivo,MEAB,,C390,,0.0
+100003604,10/08/2025,Luces de vitrina #1,60002614.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C210,Vitrina refrigeracion N°01,0.0
+100003623,11/08/2025,Sierra no enciende,60002608.0,Electromecanico,Correctivo,MECE ORAS,14/08/2025,C110,Sierra sin fin,0.0
+100003625,11/08/2025,Camara bello,,Electromecanico,Correctivo,MEAB,,C220,CAM PV-BEL-Bascula,0.0
+100003639,11/08/2025,Cambios de repuestos - Balanza N°1,60002549.0,Metrologia,Correctivo,MECE ORAS,13/08/2025,C160,Balanza colgante N°01,0.0
+100003641,11/08/2025,Cambios de repuestos - Balanza N°3,60002550.0,Metrologia,Correctivo,MECE ORAS,13/08/2025,C160,Balanza colgante N°03,0.0
+100003642,11/08/2025,Cambios de repuestos - Balanza N°4,60002551.0,Metrologia,Correctivo,MECE ORAS,13/08/2025,C160,Balanza colgante N°04,0.0
+100003643,11/08/2025,Cambios de repuestos - Balanza N°6,60002552.0,Metrologia,Correctivo,MECE ORAS,13/08/2025,C160,Balanza colgante N°06,0.0
+100003644,11/08/2025,Cambios de repuestos - Balanza N°8,60002553.0,Metrologia,Correctivo,MECE ORAS,13/08/2025,C160,Balanza colgante N°08,0.0
+100003645,11/08/2025,Cambios de repuestos - Balanza N°10,60002554.0,Metrologia,Correctivo,MECE ORAS,13/08/2025,C160,Balanza colgante N°10,0.0
+100003666,11/08/2025,Reparación de pisos,60002635.0,Infraestructura,Correctivo,METR ORAS,,A400,,0.0
+100003667,11/08/2025,Reparación de baño,60002636.0,Infraestructura,Correctivo,METR ORAS,,A400,,0.0
+100003668,12/08/2025,Vitrina de refrigeracion apagada,60002612.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C110,Vitrina refrigeracion N°01,0.0
+100003670,12/08/2025,mantenimiento cava de refrigerracion,60002615.0,Frigoristas,Correctivo,MECE ORAS,13/08/2025,C160,Evaporador cava congelacion N°01,0.0
+100003672,12/08/2025,Arreglo de llave de la poseta,60002714.0,Infraestructura,Correctivo,MECE ORAS,20/08/2025,C160,,0.0
+100003673,12/08/2025,Cambio cubo cruz tecnica,60002930.0,Infraestructura,Correctivo,MECE ORAS,28/08/2025,C160,,0.0
+100003674,12/08/2025,reparacion balanzas,,Metrologia,Correctivo,MECE,12/08/2025,C160,Balanza colgante N°02,0.0
+100003680,12/08/2025,ensaladera no esta enfriando,60002744.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C330,Nevera horizontal N°01,0.0
+100003684,12/08/2025,Arreglo tajadora,60002575.0,Electromecanico,Correctivo,MECE ORAS,13/08/2025,C150,Tajadora,0.0
+100003695,12/08/2025,Cambio de ventilador cava,60002588.0,Frigoristas,Correctivo,MECE ORAS,02/09/2025,C270,Evaporador cava congelacion N°01,0.0
+100003697,12/08/2025,oxido en el molino,60002750.0,Electromecanico,Correctivo,MECE ORAS,02/09/2025,C140,Molino,0.0
+100003699,12/08/2025,cambio rejilla baño,60002677.0,Infraestructura,Correctivo,METR ORAS,,C140,,0.0
+100003702,12/08/2025,cambio empaque de cava,,Frigoristas,Correctivo,MEAB,,C140,,0.0
+100003706,12/08/2025,cortinas enrrollables,,Infraestructura,Correctivo,METR,,C140,,0.0
+100003709,12/08/2025,cajon de herramientas,,Infraestructura,Correctivo,METR,,C140,,0.0
+100003710,12/08/2025,deterioro esquina vitrina,,Frigoristas,Correctivo,MECE,03/09/2025,C140,Vitrina refrigeracion N°02,0.0
+100003720,13/08/2025,Molino no prende,60002637.0,Electromecanico,Correctivo,MECE ORAS,14/08/2025,C190,Molino,0.0
+100003722,13/08/2025,Pozuelo empleados,,Infraestructura,Correctivo,MEAB,,C240,,0.0
+100003728,13/08/2025,Cambio siliconas sala procesos,60002946.0,Infraestructura,Correctivo,METR ORAS,,C240,,0.0
+100003730,13/08/2025,Tubería con oxidación,,Infraestructura,Correctivo,MEAB,,C240,,0.0
+100003731,13/08/2025,Moho verde vitrinas laterales,,Frigoristas,Correctivo,MECE,05/09/2025,C240,Vitrina refrigeracion N°02,0.0
+100003732,13/08/2025,Muros agrietados,60002948.0,Infraestructura,Correctivo,METR ORAS,,C240,,0.0
+100003733,13/08/2025,Sellar tomacorrientes y Puerta de parril,,Electromecanico,Correctivo,MECE,27/08/2025,C240,,0.0
+100003734,13/08/2025,Puerta parqueadero,60002947.0,Infraestructura,Correctivo,METR ORAS,,C240,,0.0
+100003735,13/08/2025,Vitrina congelación,,Frigoristas,Correctivo,MECE,05/09/2025,C240,Vitrina congelacion N°01,0.0
+100003737,13/08/2025,Cuarto de maquinas,,Electromecanico,Correctivo,MECE,19/08/2025,C240,,0.0
+100003738,13/08/2025,Inodoro empleados,,Infraestructura,Correctivo,MEAB,,C240,,0.0
+100003739,13/08/2025,Oxidacion puerta procesos,60002949.0,Infraestructura,Correctivo,METR ORAS,,C240,,0.0
+100003740,13/08/2025,Tubo difusor cava congelacion,,Frigoristas,Correctivo,MECE,05/09/2025,C240,Evaporador cava congelacion N°01,0.0
+100003745,13/08/2025,Olor a quemado,60002642.0,Frigoristas,Correctivo,MECE ORAS,14/08/2025,C200,Vitrina refrigeracion N°03,5.0
+100003747,13/08/2025,temperatura  de cava alta,60002641.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C160,Evaporador cava congelacion N°01,0.0
+100003762,13/08/2025,Vtrina congelación,60002650.0,Frigoristas,Correctivo,MECE ORAS,09/09/2025,C240,Vitrina congelacion N°01,0.0
+100003765,13/08/2025,Ruido en los motores de cavas,60003180.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C200,Evaporador cava refrigeracion N°01,0.0
+100003769,13/08/2025,Temperatura Cava Congelacion,60002643.0,Frigoristas,Correctivo,MECE ORAS,26/08/2025,C230,Evaporador cava congelacion N°01,0.0
+100003770,13/08/2025,lavadora del apartamento mala,,Infraestructura,Correctivo,MECE,14/08/2025,C250,,0.0
+100003774,13/08/2025,FRENADO EN SIERRA,60002651.0,Electromecanico,Correctivo,MECE ORAS,15/08/2025,C210,Sierra sin fin,0.0
+100003775,13/08/2025,TAPONAMIENTO DESAGUE VITRINA,,Frigoristas,Correctivo,MECE,05/09/2025,C210,Vitrina refrigeracion N°02,0.0
+100003779,14/08/2025,Limpieza de ventiladores,60002917.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C200,,0.0
+100003780,14/08/2025,Basculas 8 No imprime,60002631.0,Metrologia,Correctivo,MECE ORAS,18/08/2025,C230,Balanza colgante N°08,0.0
+100003786,14/08/2025,Bascula 9 No imprimen,60002632.0,Metrologia,Correctivo,MECE ORAS,20/08/2025,C230,Balanza colgante N°09,0.0
+100003787,14/08/2025,Bascula 11 No imprime,60002633.0,Metrologia,Correctivo,MECE ORAS,19/08/2025,C230,Balanza colgante N°11,0.0
+100003788,14/08/2025,ESPEJO BAÑOS PARRILLA,60002676.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C310,,0.0
+100003797,14/08/2025,VITRINA REFERIGERACION PARRILLA,60003181.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C570,Nevera domestica N°01,0.0
+100003805,15/08/2025,Bascula master,60002708.0,Metrologia,Correctivo,MECE ORAS,15/08/2025,C210,Balanza colgante N°01,0.0
+100003808,15/08/2025,SUCIEZA EN PISOS ENTRADA PARRILLA,60002705.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C310,,0.0
+100003812,15/08/2025,Bsculas master no lee tecla 8,60002761.0,Metrologia,Correctivo,MECE ORAS,25/08/2025,C190,Balanza colgante N°01,0.0
+100003815,15/08/2025,MATERIALES PARA LLAVES SALA PROCESOS,60002752.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C400,,0.0
+100003820,15/08/2025,MATERIALES ARREGLO LLAVE CUARTO ASEO,60002770.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,C400,,0.0
+100003825,15/08/2025,Cambio de Lamparas,60002743.0,Electromecanico,Correctivo,MECE ORAS,21/08/2025,C220,,0.0
+100003830,16/08/2025,Lampara intermitente,60002768.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C110,,0.0
+100003839,16/08/2025,ventilador de cava de congelacion parado,60002779.0,Frigoristas,Correctivo,MECE ORAS,20/08/2025,C210,Evaporador cava congelacion N°01,0.0
+100003840,17/08/2025,pintar bases metalicas de zona lockers,60002929.0,Infraestructura,Correctivo,MECE ORAS,28/08/2025,C170,,0.0
+100003841,17/08/2025,Cielo razo desprendiendose sala clientes,60002864.0,Infraestructura,Correctivo,METR ORAS,,C260,,0.0
+100003842,17/08/2025,ESTUFA DE PARRILLA SIN PASO DE GAS,,Electromecanico,Correctivo,MECE,19/08/2025,C170,,0.0
+100003843,17/08/2025,daño en el capacitor de la cierra,60002772.0,Electromecanico,Correctivo,MECE ORAS,26/08/2025,C300,Sierra sin fin,0.0
+100003845,17/08/2025,Bascula repeso con desnivel,,,,,,,,
+100003852,18/08/2025,SIERRA ESTA PASANDO CORRIENTE,60002765.0,Electromecanico,Correctivo,MECE ORAS,21/08/2025,C170,Sierra sin fin,0.0
+100003854,18/08/2025,cava refrigeracion,60002907.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C290,Evaporador cava refrigeracion N°01,0.0
+100003855,18/08/2025,cava refrigeracion,60002912.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C290,Evaporador cava refrigeracion N°02,0.0
+100003856,18/08/2025,Refrigeracion mesa,60002778.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C340,Nevera horizontal N°01,0.0
+100003860,18/08/2025,SIERRA SIN FIN,60002766.0,Electromecanico,Correctivo,MECE ORAS,21/08/2025,C210,Sierra sin fin,0.0
+100003864,19/08/2025,lampara de vitrina de charcuteria,60002757.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C220,Vitrina refrigeracion N°01,0.0
+100003866,19/08/2025,vitrina1,60002762.0,Frigoristas,Correctivo,MECE ORAS,20/08/2025,C140,Vitrina refrigeracion N°01,0.0
+100003867,19/08/2025,vitrina 3,60003089.0,Frigoristas,Correctivo,MECE ORAS,03/09/2025,C140,Vitrina refrigeracion N°03,0.0
+100003868,19/08/2025,FREIDORA,60002749.0,Electromecanico,Correctivo,MECE ORAS,26/08/2025,C150,,0.0
+100003870,19/08/2025,Puerta sala de procesos sin bisagras,,Infraestructura,Correctivo,METR,,C110,,0.0
+100003871,19/08/2025,lampara cava de refrigeracion caida,,Frigoristas,Correctivo,MECE,05/09/2025,C210,,0.0
+100003875,19/08/2025,Reparar puerta corrediza ofic directores,60002914.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,A280,,0.0
+100003880,19/08/2025,Olor fuerte vitrina congelacion,60002760.0,Frigoristas,Correctivo,MECE ORAS,20/08/2025,C220,Vitrina congelacion N°01,0.0
+100003898,19/08/2025,Pozuelo de parrilla taqueado,60002764.0,Infraestructura,Correctivo,MECE ORAS,20/08/2025,C180,,0.0
+100003904,20/08/2025,cava de refrigeracion,60003086.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C140,Evaporador cava refrigeracion N°01,0.0
+100003905,20/08/2025,Balanza,,Infraestructura,Correctivo,MECE,20/08/2025,C210,,0.0
+100003906,20/08/2025,CAVA CONGELACION,60002825.0,Frigoristas,Correctivo,MECE ORAS,22/08/2025,C150,Evaporador cava congelacion N°01,0.0
+100003907,20/08/2025,NVR_caldas,,Electromecanico,Correctivo,MEAB,,C140,NVR PV-CAL RACK-16 CH,0.0
+100003911,20/08/2025,Malacate no sube completamente,60002881.0,Electromecanico,Correctivo,MECE ORAS,27/08/2025,C170,Malacate,0.0
+100003918,20/08/2025,BASCULA DE PISO MAL EQUILIBRADA,60002934.0,Metrologia,Correctivo,MECE ORAS,02/09/2025,C300,Bascula plataforma,0.0
+100003925,20/08/2025,Puerta de nevera averiada,60003182.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C120,Nevera domestica N°01,0.0
+100003928,20/08/2025,ventilador de cava de congelacion parado,60002880.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C210,Evaporador cava refrigeracion N°01,0.0
+100003929,20/08/2025,CERRADURA DE PUERTA DE ENTRADA DAÑADA,,Infraestructura,Correctivo,MEAB,,C270,,0.0
+100003931,21/08/2025,sierra con rodamientos dañados,60002827.0,Electromecanico,Correctivo,MECE ORAS,26/08/2025,C290,Sierra sin fin,0.0
+100003944,21/08/2025,ARREGLO CONTROL CAVA CONGELACION,60002824.0,Frigoristas,Correctivo,MECE ORAS,26/08/2025,C340,Controlador cava congelacion N°01,0.0
+100003956,21/08/2025,sierra sin fin,60002828.0,Electromecanico,Correctivo,MECE ORAS,26/08/2025,C140,Sierra sin fin,0.0
+100003982,22/08/2025,NO ENCIENDE CAVA DE CONGELACION,,Frigoristas,Correctivo,MECE,05/09/2025,C300,Evaporador cava congelacion N°01,0.0
+100003990,22/08/2025,CHAPA PUERTA PRINCIPAL AVERIADA,60002829.0,Infraestructura,Correctivo,MECE ORAS,22/08/2025,C340,,0.0
+100003993,22/08/2025,Vitrina apagada,60003177.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C120,Vitrina refrigeracion N°02,0.0
+100003994,22/08/2025,RETIRO LAVA MANOS SALA PRIMEROS AUX GTH,60002909.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,A300,,0.0
+100003995,22/08/2025,AJUSTE DE BARANDA ESCALERA EDIFICIO ADM,60002846.0,Infraestructura,Correctivo,MECE ORAS,03/09/2025,A290,,0.0
+100003996,22/08/2025,REPARACION TECHO OFICINA SST,60002891.0,Infraestructura,Correctivo,METR ORAS,,A300,,0.0
+100003997,22/08/2025,Dotación_Almacen 2 -Porciparrilla,,Electromecanico,Correctivo,MEAB,,A330,CAM PAR-PARA Dotación_Almacen #2,0.0
+100003998,22/08/2025,Dorada_Mostrador 2-PV La dorada,,Electromecanico,Correctivo,MEAB,,C330,CAM PV-LDOR_Mostrador 2,0.0
+100003999,22/08/2025,Castellana - Zona proceso interno.,,Electromecanico,Correctivo,MEAB,,C170,CAM PV-LCAS_Zona Proceso interna,0.0
+100004003,23/08/2025,bascula colgante,60002851.0,Metrologia,Correctivo,MECE ORAS,25/08/2025,C140,Balanza colgante N°02,0.0
+100004004,23/08/2025,FUGA DE LAVA MANOS AUDITORIO,60002884.0,Infraestructura,Correctivo,MECE ORAS,27/08/2025,A400,,0.0
+100004029,23/08/2025,cerradura puerta principal de ingreso,60002939.0,Infraestructura,Correctivo,METR ORAS,,C300,,0.0
+100004034,23/08/2025,ACOPLES MANGUERA,,Infraestructura,Correctivo,MECE,26/08/2025,C210,,0.0
+100004037,23/08/2025,cambio de gato puerta 3,,Infraestructura,Correctivo,MEAB,,C300,,0.0
+100004048,23/08/2025,ACOPLES MANGUERAS,60002860.0,Infraestructura,Correctivo,MECE ORAS,26/08/2025,C210,,0.0
+100004049,23/08/2025,Bascula repeso con desnivel,,,,,,,,
+100004050,24/08/2025,llave de poceta primer piso con fuga,60002877.0,Infraestructura,Correctivo,MECE ORAS,26/08/2025,C170,,0.0
+100004051,24/08/2025,cava de refrigeracion con mucho hielo,60003183.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C170,Evaporador cava refrigeracion N°01,0.0
+100004056,25/08/2025,POZUELO SALA DE PROCESOS,60002865.0,Infraestructura,Correctivo,MECE ORAS,26/08/2025,C150,,0.0
+100004057,25/08/2025,SOPORTE DE BOLSAS,60002863.0,Infraestructura,Correctivo,MECE ORAS,26/08/2025,C150,,0.0
+100004061,25/08/2025,Daño de vitrina,,Frigoristas,Correctivo,MECE,05/09/2025,C300,Vitrina congelacion N°01,0.0
+100004062,25/08/2025,Pulir punto ecologico PV PLAZA FLOREZ,60002862.0,Infraestructura,Correctivo,MECE ORAS,25/08/2025,C180,,0.0
+100004065,25/08/2025,vitrinas,,Frigoristas,Correctivo,MECE,05/09/2025,C320,Vitrina refrigeracion N°02,0.0
+100004066,25/08/2025,Manguera de parrilla con fuga,60002878.0,Electromecanico,Correctivo,MECE ORAS,27/08/2025,C120,,0.0
+100004068,25/08/2025,DAÑO DISPENSADORES DE JABON,60002861.0,Infraestructura,Correctivo,MECE ORAS,26/08/2025,C310,,0.0
+100004069,25/08/2025,AMBIO DE CABLE UTP BASCULA 1,60002870.0,Metrologia,Correctivo,MECE ORAS,26/08/2025,C210,Bascula plataforma,0.0
+100004070,25/08/2025,CAMBIO DE CABLE UTP BASCULA 2,60002871.0,Metrologia,Correctivo,MECE ORAS,26/08/2025,C210,Bascula plataforma,0.0
+100004071,25/08/2025,estufa no enciende los quemadores,,Electromecanico,Correctivo,MECE,27/08/2025,C570,Electrodomesticos menores,0.0
+100004075,25/08/2025,CAMBIO DE CABLE UTP BASCULA 3,60002872.0,Metrologia,Correctivo,MECE ORAS,26/08/2025,C210,Bascula plataforma,0.0
+100004076,25/08/2025,CAMBIO DE CABLE UTP BASCULA 4,60002873.0,Metrologia,Correctivo,MECE ORAS,26/08/2025,C210,Bascula plataforma,0.0
+100004077,25/08/2025,MANTENIMINETO RODAMIENTO SIERRA,,Electromecanico,Correctivo,MECE,26/08/2025,C310,Sierra sin fin,0.0
+100004078,25/08/2025,CAMBIO DE CABLE UTP BASCULA 5,60002874.0,Metrologia,Correctivo,MECE ORAS,26/08/2025,C210,Bascula plataforma,0.0
+100004085,25/08/2025,CORTO VITRINA CONGELACION,60002898.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C170,Vitrina congelacion N°01,0.0
+100004120,26/08/2025,Mantenimiento Compresor Lubricenter,60003017.0,Electromecanico,Correctivo,METR ORAS,,A400,,0.0
+100004122,26/08/2025,Sierra fuerra de servicio,60002957.0,Electromecanico,Correctivo,MECE ORAS,01/09/2025,C340,Motor sierra,0.0
+100004143,26/08/2025,RUIDO REJILLA BAÑO HOMBRES,,Electromecanico,Correctivo,MEAB,,C460,,0.0
+100004156,27/08/2025,Arreglo cava refrigeracion,60003184.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C380,Evaporador cava refrigeracion N°01,0.0
+100004157,27/08/2025,Sierra tiene un Ruido feo y una vibracio,60002915.0,Electromecanico,Correctivo,MECE ORAS,29/08/2025,C190,Sierra sin fin,0.0
+100004166,27/08/2025,AVERIA NEVERA SERVICARROS,60002910.0,Frigoristas,Correctivo,MECE ORAS,28/08/2025,A400,Nevera vertical refrigeracion N°01,0.0
+100004170,27/08/2025,Rejas punto de venta,,Infraestructura,Correctivo,METR,,C230,,0.0
+100004173,27/08/2025,Molino,,Electromecanico,Correctivo,MECE,29/08/2025,C240,Molino,0.0
+100004174,27/08/2025,Revision vidrios laterales vitrinas,,Frigoristas,Correctivo,METR,,C230,Vitrina refrigeracion N°01,0.0
+100004185,27/08/2025,POLEA O RUEDA SUPERIOR DE SIERRA MALA,,Electromecanico,Correctivo,MECE,29/08/2025,C170,Sierra sin fin,0.0
+100004203,28/08/2025,FUSIL AIRE PV,,Frigoristas,Correctivo,MECE,08/09/2025,C320,Aire acondicionado central,0.0
+100004207,28/08/2025,Daño en baño de gestion documental ofici,,Infraestructura,Correctivo,MEAB,,A330,,0.0
+100004209,28/08/2025,TEMPERATURA ALTA VITRINA REFRIGERACION,60003185.0,Frigoristas,Correctivo,MECE ORAS,05/09/2025,C220,Vitrina refrigeracion N°02,0.0
+100004213,28/08/2025,cerradura dañada,60003058.0,Infraestructura,Correctivo,METR ORAS,,A190,,0.0
+100004214,28/08/2025,cambio de tuberia procesos,60003062.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,C290,,0.0
+100004215,28/08/2025,COMPRA DE CANDADO CAJA CONTADOR ENERGIA,,Electromecanico,Correctivo,MECE,29/08/2025,C400,,0.0
+100004217,28/08/2025,Lavamanos Empleados,,Infraestructura,Correctivo,MEAB,,C240,,0.0
+100004220,28/08/2025,acrilico cruz tecnica,,Infraestructura,Correctivo,MECE,30/08/2025,C100,,0.0
+100004221,28/08/2025,ventilador de vitrina cable conector,60003202.0,Frigoristas,Correctivo,METR ORAS,,C100,Vitrina refrigeracion N°03,0.0
+100004222,28/08/2025,polea de sierra sin fin,60003013.0,Electromecanico,Correctivo,MECE ORAS,01/09/2025,C100,Sierra sin fin,0.0
+100004223,28/08/2025,baldosin,,Infraestructura,Correctivo,METR,,C100,,0.0
+100004224,28/08/2025,Obstruccion de tuberia sanitaria,60002940.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,A280,,0.0
+100004227,28/08/2025,Cajon de Herramientas con Oxidacion,,Infraestructura,Correctivo,MEAB,,C110,,0.0
+100004228,28/08/2025,Ojos de buey apagados,60002950.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C110,,0.0
+100004230,30/07/2025,Prestamo personal obra turbaco,60002945.0,Electromecanico,Correctivo,MECE ORAS,01/09/2025,A400,,0.0
+100004240,29/08/2025,Bascula no enciende,60002952.0,Metrologia,Correctivo,MECE ORAS,29/08/2025,C120,Balanza colgante N°05,0.0
+100004247,29/08/2025,Prestamo personal obra Mayorista,60002955.0,Infraestructura,Correctivo,METR ORAS,,C440,,0.0
+100004249,29/08/2025,reparacion con soldadura para silla pv,,Infraestructura,Correctivo,MEAB,,C300,,0.0
+100004250,29/08/2025,pueta de la cierra sele daño el pin,60003014.0,Electromecanico,Correctivo,MECE ORAS,02/09/2025,C300,Sierra sin fin,0.0
+100004251,29/08/2025,mantenimiento cortinas enrollables pv,,Infraestructura,Correctivo,MEAB,,C300,,0.0
+100004257,29/08/2025,FILTROS DE CAMPANA,,Electromecanico,Correctivo,MEAB,,C460,Campana extractora,0.0
+100004267,29/08/2025,DAÑO EN VITRINA #1,60003269.0,Frigoristas,Correctivo,METR ORAS,,C310,Vitrina congelacion N°02,0.0
+100004273,30/08/2025,bombilla de sala proceso,60003015.0,Electromecanico,Correctivo,MECE ORAS,02/09/2025,C140,,0.0
+100004282,30/08/2025,Revision Electrica,60002987.0,Electromecanico,Correctivo,MECE ORAS,01/09/2025,C240,,0.0
+100004286,30/08/2025,Turnero malo,,Electromecanico,Correctivo,METR,,C250,Electrodomesticos menores,0.0
+100004293,30/08/2025,arreglo de aire,60002995.0,Frigoristas,Correctivo,MECE ORAS,04/09/2025,C320,Aire acondicionado central,0.0
+100004302,01/09/2025,toma criente,60003016.0,Electromecanico,Correctivo,MECE ORAS,09/09/2025,C100,,0.0
+100004303,01/09/2025,Sierra la hoja esta chocando con la guia,,Electromecanico,Correctivo,MECE,04/09/2025,C190,Sierra sin fin,0.0
+100004306,01/09/2025,la hoja de la sierra choca con la guia,60003066.0,Electromecanico,Correctivo,MECE ORAS,02/09/2025,C190,Sierra sin fin,0.0
+100004324,01/09/2025,cambio de suiche,60003072.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C320,,0.0
+100004326,01/09/2025,cambio de jaboneras,60003248.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,C410,,0.0
+100004335,02/09/2025,DAÑO REJA ENRROLLABLES,,Infraestructura,Correctivo,MEAB,,C310,,0.0
+100004336,02/09/2025,vitrina numero 2,60003085.0,Frigoristas,Correctivo,MECE ORAS,03/09/2025,C140,Vitrina refrigeracion N°02,2.0
+100004339,02/09/2025,Ducha Apartamento,60003064.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,A140,,0.0
+100004341,02/09/2025,Arreglo puerta Apartamento,60003074.0,Infraestructura,Correctivo,MECE ORAS,03/09/2025,C230,,0.0
+100004351,02/09/2025,PV Palmira_Palmi_Caja1,,Electromecanico,Correctivo,MEAB,,C390,CAM PV-PALM_Caja1,0.0
+100004352,02/09/2025,Turneros e Iluminacion malos,60003076.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C200,Electrodomesticos menores,0.0
+100004364,02/09/2025,se daña regulador de gas de parilla,60003101.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C120,Plancha N°01,0.0
+100004371,03/09/2025,Piso con mucha agua,,Infraestructura,Correctivo,MEAB,,C280,,0.0
+100004373,03/09/2025,Limpieza Terraza pv,60003228.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,C220,,0.0
+100004374,03/09/2025,Limpieza Ventiladores,60003229.0,Electromecanico,Correctivo,MECE ORAS,09/09/2025,C220,Electrodomesticos menores,0.0
+100004375,03/09/2025,Lamparas PV,60003102.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C240,,0.0
+100004380,03/09/2025,Prestamo personal a Ingenieria,60003106.0,Electromecanico,Correctivo,METR ORAS,,A400,,0.0
+100004387,03/09/2025,COLUMNA SUPERBOARD,60003230.0,Infraestructura,Correctivo,METR ORAS,,C210,,0.0
+100004390,03/09/2025,boton de encendido de molino malo,60003139.0,Electromecanico,Correctivo,MECE ORAS,04/09/2025,C170,Molino,0.0
+100004399,04/09/2025,cambio sifon apartamento,60003127.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,A190,,0.0
+100004418,04/09/2025,Suspension electrica,60003133.0,Electromecanico,Correctivo,METR ORAS,,C200,,0.0
+100004419,04/09/2025,baños votan agua por la tasa,,Infraestructura,Correctivo,MECE,08/09/2025,C460,,0.0
+100004420,04/09/2025,Poco fluido agua potable,,Infraestructura,Correctivo,MEAB,,C300,,0.0
+100004427,04/09/2025,PUERTA SALA DE PROCESOS,60003138.0,Infraestructura,Correctivo,METR ORAS,,C320,,0.0
+100004432,04/09/2025,Compresor dañado,60003163.0,Frigoristas,Correctivo,METR ORAS,,C200,Vitrina refrigeracion N°03,0.0
+100004441,05/09/2025,lampara sala de procesos quemada,,Electromecanico,Correctivo,MEAB,,C290,,0.0
+100004442,05/09/2025,Revision aire acondicionado,60003201.0,Frigoristas,Correctivo,MECE ORAS,08/09/2025,A280,Aire acondicionado msplit - casette N°02,0.0
+100004446,05/09/2025,REPARACION MESA CARNES,,Frigoristas,Correctivo,METR,,C340,Vitrina refrigeracion N°04,0.0
+100004449,05/09/2025,Conectar empacadora al vacio,60003197.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C120,,0.0
+100004459,05/09/2025,PINTURA OFICINAS GTH,60003231.0,Infraestructura,Correctivo,MECE ORAS,09/09/2025,A300,,0.0
+100004460,05/09/2025,Revision de olores baños financiera,,Infraestructura,Correctivo,MEAB,,A290,,0.0
+100004461,05/09/2025,Camara PV Soledad Caida,,Electromecanico,Correctivo,MEAB,,C320,CAM PV-SOLE_Mostrador 1,0.0
+100004462,05/09/2025,Camara PV Envigado - Parrilla,,Electromecanico,Correctivo,MEAB,,C160,CAM PV-ENV_Bascula,0.0
+100004463,05/09/2025,Cama PV Sincelejo - Intermitencia,,Electromecanico,Correctivo,MEAB,,C290,CAM PV-SIN_Bascula,0.0
+100004464,05/09/2025,CAMARA PV LA DORADA,,Electromecanico,Correctivo,MEAB,,C330,CAM PV-LDOR_Bascula,0.0
+100004465,05/09/2025,Camara PV Tulua,,Electromecanico,Correctivo,MEAB,,C380,CAM PV-TUL_Bascula,0.0
+100004466,05/09/2025,CAMARA PV CEJA Zona_lCliente,,Electromecanico,Correctivo,MEAB,,C240,CAM PV-CEJA_Bascula Piso,0.0
+100004467,05/09/2025,Camaras Edificio Prado,,Electromecanico,Correctivo,MEAB,,A280,CAM OFI Adm_Acceso Principal,0.0
+100004468,05/09/2025,camara PV Aparta Parrilla,,Electromecanico,Correctivo,MEAB,,C250,CAM PV-APTD-Parrilla,0.0
+100004473,06/09/2025,SIERRA ELECTRICA,60003198.0,Electromecanico,Correctivo,MECE ORAS,08/09/2025,C170,Sierra sin fin,0.0
+100004475,06/09/2025,Reparacion bisagra  puerta principal,60003210.0,Infraestructura,Correctivo,MECE ORAS,08/09/2025,C300,,0.0
+100004477,06/09/2025,Bascula de piso se daño,60003195.0,Metrologia,Correctivo,METR ORAS,,C190,Bascula plataforma,0.0
+100004480,07/09/2025,daño en cava de congelacion,,Frigoristas,Correctivo,MEAB,,C300,Evaporador cava congelacion N°01,0.0
+100004492,08/09/2025,sierra sinfin mal estado,60003224.0,Electromecanico,Correctivo,METR ORAS,,C210,Sierra sin fin,0.0
+100004496,08/09/2025,VITRINA CONGELACION # 2,60003205.0,Frigoristas,Correctivo,METR ORAS,,C470,Vitrina congelacion N°02,0.0
+100004497,08/09/2025,VITRINA CONGELACION # 1,60003206.0,Frigoristas,Correctivo,METR ORAS,,C470,Vitrina congelacion N°01,0.0
+100004499,08/09/2025,Fuga de agua en tuberia de cuarto emplea,60003207.0,Infraestructura,Correctivo,METR ORAS,,C210,,0.0
+100004500,08/09/2025,freidora no enciende,60003204.0,Electromecanico,Correctivo,METR ORAS,,C410,Freidora a gas N°01,0.0
+100004504,08/09/2025,revision de neveras,,Frigoristas,Correctivo,MEAB,,C410,Nevera vertical refrigeracion N°01,0.0
+100004505,08/09/2025,DAÑO CANAL PERGOLA PARRILLA,60003246.0,Infraestructura,Correctivo,METR ORAS,,C310,,0.0
+100004506,08/09/2025,Toberia taqueada,,Frigoristas,Correctivo,MECE,09/09/2025,C200,,0.0
+100004507,08/09/2025,LLAVE DE AGUA DEL CUARTO DE ASEO,60003260.0,Infraestructura,Correctivo,MECE ORAS,10/09/2025,C310,,0.0
+100004508,08/09/2025,CAMBIO CANCAMOS PARA COLGAR TABLAS,60003261.0,Infraestructura,Correctivo,METR ORAS,,C310,,0.0
+100004512,08/09/2025,sierra dañada,,Electromecanico,Correctivo,MEAB,,C290,Sierra sin fin,0.0
+100004514,08/09/2025,Luces dañadas comedor personal,,Electromecanico,Correctivo,MEAB,,C260,,0.0
+100004515,08/09/2025,Luces pergola dañada,,Electromecanico,Correctivo,MEAB,,C260,,0.0
+100004516,08/09/2025,Cava de congelacion votando agua,,Frigoristas,Correctivo,MEAB,,C260,Evaporador cava congelacion N°01,0.0
+100004517,08/09/2025,Luz vitrina carnes dañada,,Frigoristas,Correctivo,MEAB,,C260,Vitrina refrigeracion N°02,0.0
+100004518,08/09/2025,Cambio de ubicacion caja fuerte,,Electromecanico,Correctivo,MEAB,,C260,Electrodomesticos menores,0.0
+100004519,08/09/2025,Llantas de carros de canastas dañados,,Infraestructura,Correctivo,MEAB,,C260,,0.0
+100004520,08/09/2025,Arreglo de malla puerta de patio,,Infraestructura,Correctivo,MEAB,,C260,,0.0
+100004522,08/09/2025,arreglo cielo razo sala de clientes,,Infraestructura,Correctivo,MEAB,,C260,,0.0
+100004524,08/09/2025,Arreglo pasadores del porton del garaje,,Infraestructura,Correctivo,MEAB,,C260,,0.0
+100004525,08/09/2025,Arreglo de pantalla de la bascula master,,Metrologia,Correctivo,MEAB,,C260,Balanza colgante N°06,0.0
+100004527,08/09/2025,Cielo razo apartamento con humedad,,Infraestructura,Correctivo,MEAB,,A160,,0.0
+100004529,08/09/2025,VITRINA NO ENCIENDE,60003225.0,Frigoristas,Correctivo,METR ORAS,,C170,Vitrina refrigeracion N°02,0.0
+100004531,08/09/2025,solicitud cambio de la estructura bascu,,Metrologia,Correctivo,MEAB,,C280,Bascula plataforma,0.0
+100004532,08/09/2025,manija de tapa de freidora safada,,Electromecanico,Correctivo,MEAB,,C280,Freidora electrica N°02,0.0
+100004541,08/09/2025,MANTENIMIENTO SIERRA,,Electromecanico,Correctivo,METR,,C170,Sierra sin fin,0.0
+100004548,09/09/2025,ESTUFA PARRILLA FUERA DE SERVICIO,,Electromecanico,Correctivo,METR,,C340,Fogon a gas N°01,0.0
+100004558,09/09/2025,PAREDES SOPLADAS Y CUARTEADAS,,Infraestructura,Correctivo,METR,,C340,,0.0
+100004570,09/09/2025,DETRIORO ARCHIVADOR OFICINA,,Infraestructura,Correctivo,MECE,10/09/2025,C310,,0.0
+100004597,10/09/2025,Vitrina congelacion,,Frigoristas,Correctivo,METR,,C320,Vitrina congelacion N°01,0.0
+100004599,10/09/2025,Revisión Vinipeladora,,Infraestructura,Correctivo,MEAB,,A400,,0.0
+100004601,10/09/2025,PUERTA ACCESO PUBLICO,,Electromecanico,Correctivo,METR,,C320,Puerta automatica N°01,0.0
+400000001,01/04/2025,Fabricacion de portacuchillos,,Infraestructura,Fabricacion,AUTO MECE,29/07/2025,C340,,0.0
+400000002,01/04/2025,Fabricación e instalación de perchero,,Infraestructura,Fabricacion,AUTO MECE,29/07/2025,C200,,0.0
+400000004,01/04/2025,Fabricacion de ganchera,,Infraestructura,Fabricacion,AUTO MECE,29/07/2025,C210,,0.0
+400000005,01/04/2025,Fabricacion de soporte,,Infraestructura,Fabricacion,AUTO MECE,29/07/2025,C190,,0.0
+400000006,01/04/2025,Fabricación estanterías porci talleres,,Infraestructura,Fabricacion,AUTO MECE,29/07/2025,A400,,0.0
+400000086,01/08/2025,Fabricacion Carrito Transport pv bello,60002660.0,Infraestructura,Fabricacion,AUOK EMDA METR ORAS,,C220,,0.0
+400000089,04/08/2025,Solic fabricacion estanterias pv Sabanet,,Infraestructura,Fabricacion,AUTO EMDA MDIF,,C120,,0.0
+400000092,13/08/2025,Portacuchillos,,Infraestructura,Fabricacion,AUTO MECE,13/08/2025,C240,,0.0
+400000093,13/08/2025,Botero,,Infraestructura,Fabricacion,AUTO EMDA MDIF,,C240,,0.0
+430000001,21/04/2025,daño en muebles,,Infraestructura,Instalacion,MECE,02/05/2025,C410,,0.0
+430000002,21/04/2025,tanque de agua dañado,,Infraestructura,Instalacion,MECE,02/05/2025,C410,,0.0
+430000004,24/04/2025,tranpa obstruida,,Infraestructura,Instalacion,MECE,05/05/2025,C410,,0.0
+430000005,30/04/2025,Reparacion teclado de balanza,60000389.0,Metrologia,Instalacion,MECE ORAS,07/05/2025,C140,Balanza colgante N°02,0.0
+430000006,13/05/2025,Cava de congelacion en mal estado,,Infraestructura,Instalacion,MECE,21/05/2025,C220,,0.0
+430000010,30/05/2025,cierre dañada,,Infraestructura,Instalacion,MECE,07/06/2025,C290,Sierra sin fin,0.0
+430000011,30/05/2025,Carrito de descargue dañado,60001073.0,Infraestructura,Instalacion,MECE ORAS,11/06/2025,C290,,0.0
+430000012,01/06/2025,nevera congelacion charcuteria dañada,60001019.0,Frigoristas,Instalacion,MECE ORAS,04/06/2025,C290,Vitrina congelacion N°01,0.0
+430000016,04/06/2025,Intalar toma regulado,,Infraestructura,Instalacion,MECE,07/06/2025,A290,,0.0
+430000017,12/06/2025,Camara sistemas sin visual,,Electromecanico,Instalacion,MEAB,,A290,,0.0
+430000018,15/06/2025,Sonido extraño en equipo UPS,,Infraestructura,Instalacion,MECE,16/06/2025,C170,,0.0
+430000022,21/06/2025,Camara entrada pv cali sin visual,60001798.0,Electromecanico,Instalacion,MECE ORAS,04/08/2025,C400,CAM PV-CALI-Entrada,0.0
+430000031,01/07/2025,Revision de camara Brink,60001726.0,Electromecanico,Instalacion,MECE ORAS,14/08/2025,C290,CAM PV-SIN_Caja Brinks,0.0
+430000040,15/07/2025,Camara caja 1 palmira sin visual,,Electromecanico,Instalacion,MECE,17/07/2025,C390,CAM PV-PALM_Administracion,0.0
+460000227,19/06/2025,INSTALACION DE EMPUJADOR PARA SIERRA,,Electromecanico,Correctivo,MECE,21/06/2025,C100,Sierra sin fin,0.0
+460000323,17/07/2025,Prestamo personal obra PP Mayorista,60002020.0,Infraestructura,Correctivo,MECE ORAS,04/08/2025,C440,,0.0
+460000402,19/08/2025,Instalación de Trampa de Grasa,60002774.0,Infraestructura,Correctivo,MECE ORAS,25/08/2025,C400,,0.0
+460000420,23/08/2025,Cambio de Medidor P.v Cali,,Electromecanico,Correctivo,MEAB,,C400,,0.0
